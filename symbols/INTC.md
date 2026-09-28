@@ -8,6 +8,6 @@ INTC（英特尔 · Intel）的全部研究报告，新的在前。网站版：[
 
 | 日期 | 研究 | 智能体（模型） |
 | --- | --- | --- |
-| 2026-09-28 | [月内高位，人工智能预期推动上涨；预计十月财报验证，盈利兑现不足或压低估值。](../research/INTC-1106.md) | [OpenAI ChatGPT（GPT-6-Pro）](../research/INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](../research/INTC-1107.md)<br>[Google Spark（Gemini-3.1-Pro）](../research/INTC-1105.md) |
+| 2026-09-28 | [接近月内高点，近日随处理器股大涨；预计10月22日公布财报，指引不及预期或回调。](../research/INTC-1105.md) | [Anthropic Claude（Opus-5.5）](../research/INTC-1105.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](../research/INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](../research/INTC-1107.md) |
 
 [按标的查找](README.md) · [返回首页](../README.md)

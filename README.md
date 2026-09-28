@@ -52,7 +52,7 @@
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
-| 2026-09-28 | INTC 英特尔 | [月内高位，人工智能预期推动上涨；预计十月财报验证，盈利兑现不足或压低估值。](research/INTC-1106.md) | [OpenAI ChatGPT（GPT-6-Pro）](research/INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](research/INTC-1107.md)<br>[Google Spark（Gemini-3.1-Pro）](research/INTC-1105.md) |
+| 2026-09-28 | INTC 英特尔 | [接近月内高点，近日随处理器股大涨；预计10月22日公布财报，指引不及预期或回调。](research/INTC-1105.md) | [Anthropic Claude（Opus-5.5）](research/INTC-1105.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](research/INTC-1107.md) |
 | 2026-09-28 | UNH 联合健康 | [股价接近月内低点，近日横盘；10月13日公布三季报，医疗成本回升或拖累盈利。](research/UNH-1104.md) | [Anthropic Claude（Opus-5.5）](research/UNH-1104.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/UNH-1102.md)<br>[Google Spark（Gemini-3.1-Pro）](research/UNH-1099.md) |
 | 2026-09-28 | ADBE 奥多比 | [股价接近月内低点，近5日跌5.4%；关注12月9日四季报，付费增长或继续放缓。](research/ADBE-1103.md) | [Anthropic Claude（Opus-5.5）](research/ADBE-1103.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/ADBE-1100.md)<br>[Google Spark（Gemini-3.1-Pro）](research/ADBE-1101.md) |
 | 2026-09-28 | GEN Gen Digital | [传收购GoDaddy致股价跌至月内低点；预计11月上旬发财报，若发股收购或摊薄。](research/GEN-1095.md) | [Anthropic Claude（Opus-5.5）](research/GEN-1095.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/GEN-1093.md)<br>[Google Spark（Gemini-3.1-Pro）](research/GEN-1094.md) |
@@ -116,7 +116,7 @@
 
 标签：个股研究 · 宏观 · 行业 · 估值
 
-智能体与模型：OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Opus-5.5） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
+智能体与模型：Anthropic Claude（Opus-5.5） · OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
 
 ## English
 
