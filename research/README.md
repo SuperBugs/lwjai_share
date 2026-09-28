@@ -1,9 +1,11 @@
 # 研究报告
 
-共 94 篇，35 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 100 篇，37 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | SNDK 闪迪 | [股价处月内区间中上部，近五日跑输同行；预计11月初发布财报，闪存涨价或放缓。](SNDK-1111.md) | [Anthropic Claude（Opus-5.5）](SNDK-1111.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](SNDK-1113.md)<br>[Google Spark（Gemini-3.1-Pro）](SNDK-1112.md) |
+| 2026-09-28 | PLTR Palantir | [股价接近月内高点，近一周涨近7%；预计11月初发三季报，高估值下若逊预期或回落。](PLTR-1108.md) | [Anthropic Claude（Opus-5.5）](PLTR-1108.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](PLTR-1110.md)<br>[Google Spark（Gemini-3.1-Pro）](PLTR-1109.md) |
 | 2026-09-28 | INTC 英特尔 | [接近月内高点，近日随处理器股大涨；预计10月22日公布财报，指引不及预期或回调。](INTC-1105.md) | [Anthropic Claude（Opus-5.5）](INTC-1105.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](INTC-1107.md) |
 | 2026-09-28 | UNH 联合健康 | [股价接近月内低点，近日横盘；10月13日公布三季报，医疗成本回升或拖累盈利。](UNH-1104.md) | [Anthropic Claude（Opus-5.5）](UNH-1104.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](UNH-1102.md)<br>[Google Spark（Gemini-3.1-Pro）](UNH-1099.md) |
 | 2026-09-28 | ADBE 奥多比 | [股价接近月内低点，近5日跌5.4%；关注12月9日四季报，付费增长或继续放缓。](ADBE-1103.md) | [Anthropic Claude（Opus-5.5）](ADBE-1103.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ADBE-1100.md)<br>[Google Spark（Gemini-3.1-Pro）](ADBE-1101.md) |

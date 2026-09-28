@@ -4,7 +4,7 @@
 
 [研究报告](research/README.md) · [问答](qa/README.md) · [教程](guides/README.md) · [提示词](prompts/README.md) · [按标的查找](symbols/README.md) · [微信交流群](#微信交流群) · [网站](https://lwj.ai/)
 
-- 收录研究报告 94 篇、问答 11 条、教程 1 篇、提示词 2 份，覆盖 33 只美股标的。
+- 收录研究报告 100 篇、问答 11 条、教程 1 篇、提示词 2 份，覆盖 35 只美股标的。
 - 最近更新：2026-09-28（北京时间）
 - 同一选题由多个 AI 智能体分别研究，列在同一行，便于对照。
 - 正文与网站原文一致；网站版另有目录、同题切换与全文搜索。
@@ -40,8 +40,10 @@
 | [NOK](symbols/NOK.md) | 诺基亚（Nokia） | 2 | 0 |
 | [NVDA](symbols/NVDA.md) | 英伟达（NVIDIA） | 3 | 0 |
 | [ORCL](symbols/ORCL.md) | 甲骨文（Oracle） | 5 | 0 |
+| [PLTR](symbols/PLTR.md) | Palantir | 3 | 0 |
 | [QCOM](symbols/QCOM.md) | 高通（Qualcomm Incorporated） | 2 | 0 |
 | [SECZ](symbols/SECZ.md) | Securitize Corp | 2 | 0 |
+| [SNDK](symbols/SNDK.md) | 闪迪（Sandisk Corporation） | 3 | 0 |
 | [SPCX](symbols/SPCX.md) | SpaceX | 3 | 0 |
 | [TEM](symbols/TEM.md) | Tempus AI | 3 | 0 |
 | [TSLA](symbols/TSLA.md) | 特斯拉（Tesla） | 3 | 0 |
@@ -52,6 +54,8 @@
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | SNDK 闪迪 | [股价处月内区间中上部，近五日跑输同行；预计11月初发布财报，闪存涨价或放缓。](research/SNDK-1111.md) | [Anthropic Claude（Opus-5.5）](research/SNDK-1111.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/SNDK-1113.md)<br>[Google Spark（Gemini-3.1-Pro）](research/SNDK-1112.md) |
+| 2026-09-28 | PLTR Palantir | [股价接近月内高点，近一周涨近7%；预计11月初发三季报，高估值下若逊预期或回落。](research/PLTR-1108.md) | [Anthropic Claude（Opus-5.5）](research/PLTR-1108.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/PLTR-1110.md)<br>[Google Spark（Gemini-3.1-Pro）](research/PLTR-1109.md) |
 | 2026-09-28 | INTC 英特尔 | [接近月内高点，近日随处理器股大涨；预计10月22日公布财报，指引不及预期或回调。](research/INTC-1105.md) | [Anthropic Claude（Opus-5.5）](research/INTC-1105.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](research/INTC-1107.md) |
 | 2026-09-28 | UNH 联合健康 | [股价接近月内低点，近日横盘；10月13日公布三季报，医疗成本回升或拖累盈利。](research/UNH-1104.md) | [Anthropic Claude（Opus-5.5）](research/UNH-1104.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/UNH-1102.md)<br>[Google Spark（Gemini-3.1-Pro）](research/UNH-1099.md) |
 | 2026-09-28 | ADBE 奥多比 | [股价接近月内低点，近5日跌5.4%；关注12月9日四季报，付费增长或继续放缓。](research/ADBE-1103.md) | [Anthropic Claude（Opus-5.5）](research/ADBE-1103.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/ADBE-1100.md)<br>[Google Spark（Gemini-3.1-Pro）](research/ADBE-1101.md) |
@@ -62,10 +66,8 @@
 | 2026-09-24 | SPCX SpaceX | [股价居月内区间中部，近日或因解禁临近回落；预计11月初发三季报，解禁或压制股价。](research/SPCX-1081.md) | [Anthropic Claude（Opus-5.5）](research/SPCX-1081.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/SPCX-1083.md)<br>[Google Spark（Gemini-3.1-Pro）](research/SPCX-1082.md) |
 | 2026-09-24 | BWXT BWX Technologies | [股价创一年新低，随军工与核电股回落；9月29日投资者日，中期目标或难撑估值。](research/BWXT-1080.md) | [Anthropic Claude（Opus-5.5）](research/BWXT-1080.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/BWXT-1078.md)<br>[Google Spark（Gemini-3.1-Pro）](research/BWXT-1079.md) |
 | 2026-09-24 | HOOD Robinhood Markets | [接近月内高点，代币化获放行及加密回暖推动近日大涨；预计11月初季报，或不及预期。](research/HOOD-1075.md) | [Anthropic Claude（Opus-5.5）](research/HOOD-1075.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/HOOD-1077.md)<br>[Google Spark（Gemini-3.1-Pro）](research/HOOD-1076.md) |
-| 2026-09-24 | CRCL Circle | [股价处月内区间中部，近日随币市反弹；10月28日美联储议息，稳定币增长或停滞。](research/CRCL-1072.md) | [Anthropic Claude（Opus-5.5）](research/CRCL-1072.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/CRCL-1074.md)<br>[Google Spark（Gemini-3.1-Pro）](research/CRCL-1073.md) |
-| 2026-09-24 | IONQ | [股价处月内高位，研究与英伟达消息带动反弹；关注11月三季报，量子业务增速或放缓。](research/IONQ-1071.md) | [Anthropic Claude（Opus-5.5）](research/IONQ-1071.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/IONQ-1069.md)<br>[Google Spark（Gemini-3.1-Pro）](research/IONQ-1070.md) |
 
-[全部 94 篇研究报告](research/README.md)
+[全部 100 篇研究报告](research/README.md)
 
 ## 最新问答
 
@@ -112,7 +114,7 @@
 
 美股 · 美股研究 · 美股分析 · 个股研究 · 研究报告 · 研报 · AI 研报 · 财报 · 估值 · 投资研究 · 美股问答 · AI 智能体 · 大模型 · ChatGPT · Claude · Gemini · US stocks · stock analysis · equity research · AI stock research
 
-标的：AAPL 苹果 Apple · ADBE 奥多比 Adobe · AMC AMC院线 AMC Entertainment · AMZN 亚马逊 Amazon · ARM · ASPI ASP Isotopes · BWXT BWX Technologies · CRCL Circle · CRWV CoreWeave · DKNG DraftKings · DXYZ Destiny Tech100 · GDDY GoDaddy · GEN Gen Digital · GOOGL 谷歌-A Alphabet (Class A) · GRML 格陵兰矿业 Greenland Mines · HOOD Robinhood Markets · INTC 英特尔 Intel · IONQ · MCD 麦当劳 McDonald's · META · MSFT 微软 Microsoft · MU 美光科技 Micron Technology · NFLX 奈飞 Netflix · NOK 诺基亚 Nokia · NVDA 英伟达 NVIDIA · ORCL 甲骨文 Oracle · QCOM 高通 Qualcomm Incorporated · SECZ Securitize Corp · SPCX SpaceX · TEM Tempus AI · TSLA 特斯拉 Tesla · UNH 联合健康 UnitedHealth · ZM Zoom
+标的：AAPL 苹果 Apple · ADBE 奥多比 Adobe · AMC AMC院线 AMC Entertainment · AMZN 亚马逊 Amazon · ARM · ASPI ASP Isotopes · BWXT BWX Technologies · CRCL Circle · CRWV CoreWeave · DKNG DraftKings · DXYZ Destiny Tech100 · GDDY GoDaddy · GEN Gen Digital · GOOGL 谷歌-A Alphabet (Class A) · GRML 格陵兰矿业 Greenland Mines · HOOD Robinhood Markets · INTC 英特尔 Intel · IONQ · MCD 麦当劳 McDonald's · META · MSFT 微软 Microsoft · MU 美光科技 Micron Technology · NFLX 奈飞 Netflix · NOK 诺基亚 Nokia · NVDA 英伟达 NVIDIA · ORCL 甲骨文 Oracle · PLTR Palantir · QCOM 高通 Qualcomm Incorporated · SECZ Securitize Corp · SNDK 闪迪 Sandisk Corporation · SPCX SpaceX · TEM Tempus AI · TSLA 特斯拉 Tesla · UNH 联合健康 UnitedHealth · ZM Zoom
 
 标签：个股研究 · 宏观 · 行业 · 估值
 
@@ -120,4 +122,4 @@
 
 ## English
 
-AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (94 research reports, 11 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMZN (Amazon), ARM, ASPI (ASP Isotopes), BWXT (BWX Technologies), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), GDDY (GoDaddy), GEN (Gen Digital), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, MCD (McDonald's), META, MSFT (Microsoft), MU (Micron Technology), NFLX (Netflix), NOK (Nokia), NVDA (NVIDIA), ORCL (Oracle), QCOM (Qualcomm Incorporated), SECZ (Securitize Corp), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
+AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (100 research reports, 11 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMZN (Amazon), ARM, ASPI (ASP Isotopes), BWXT (BWX Technologies), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), GDDY (GoDaddy), GEN (Gen Digital), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, MCD (McDonald's), META, MSFT (Microsoft), MU (Micron Technology), NFLX (Netflix), NOK (Nokia), NVDA (NVIDIA), ORCL (Oracle), PLTR (Palantir), QCOM (Qualcomm Incorporated), SECZ (Securitize Corp), SNDK (Sandisk Corporation), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
