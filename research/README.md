@@ -1,9 +1,12 @@
 # 研究报告
 
-共 82 篇，31 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 91 篇，34 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | UNH 联合健康 | [股价接近月内低点，近日横盘；10月13日公布三季报，医疗成本回升或拖累盈利。](UNH-1104.md) | [Anthropic Claude（Opus-5.5）](UNH-1104.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](UNH-1102.md)<br>[Google Spark（Gemini-3.1-Pro）](UNH-1099.md) |
+| 2026-09-28 | ADBE 奥多比 | [股价接近月内低点，近5日跌5.4%；关注12月9日四季报，付费增长或继续放缓。](ADBE-1103.md) | [Anthropic Claude（Opus-5.5）](ADBE-1103.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ADBE-1100.md)<br>[Google Spark（Gemini-3.1-Pro）](ADBE-1101.md) |
+| 2026-09-28 | GEN Gen Digital | [传收购GoDaddy致股价跌至月内低点；预计11月上旬发财报，若发股收购或摊薄。](GEN-1095.md) | [Anthropic Claude（Opus-5.5）](GEN-1095.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](GEN-1093.md)<br>[Google Spark（Gemini-3.1-Pro）](GEN-1094.md) |
 | 2026-09-24 | AMC AMC院线 | [股价接近月内高点，再融资与暑期营收大增带动近日上涨；关注三季报，公司或再增发。](AMC-1090.md) | [Anthropic Claude（Opus-5.5）](AMC-1090.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](AMC-1091.md)<br>[Google Spark（Gemini-3.1-Pro）](AMC-1092.md) |
 | 2026-09-24 | ORCL 甲骨文 | [接近月内低点，近日或因美债收益率走高回落；10月28日投资者日，融资压力或加重。](ORCL-1087.md) | [Anthropic Claude（Opus-5.5）](ORCL-1087.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ORCL-1089.md)<br>[Google Spark（Gemini-3.1-Pro）](ORCL-1088.md) |
 | 2026-09-24 | NFLX 奈飞 | [股价近月内低点，遭两家券商降级而走低；10月20日财报，观看份额下滑或拖累指引。](NFLX-1084.md) | [Anthropic Claude（Opus-5.5）](NFLX-1084.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NFLX-1086.md)<br>[Google Spark（Gemini-3.1-Pro）](NFLX-1085.md) |
