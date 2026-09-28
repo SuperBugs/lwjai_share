@@ -4,7 +4,7 @@
 
 [研究报告](research/README.md) · [问答](qa/README.md) · [教程](guides/README.md) · [提示词](prompts/README.md) · [按标的查找](symbols/README.md) · [微信交流群](#微信交流群) · [网站](https://lwj.ai/)
 
-- 收录研究报告 115 篇、问答 11 条、教程 1 篇、提示词 2 份，覆盖 40 只美股标的。
+- 收录研究报告 115 篇、问答 14 条、教程 1 篇、提示词 2 份，覆盖 40 只美股标的。
 - 最近更新：2026-09-28（北京时间）
 - 同一选题由多个 AI 智能体分别研究，列在同一行，便于对照。
 - 正文与网站原文一致；网站版另有目录、同题切换与全文搜索。
@@ -41,7 +41,7 @@
 | [MU](symbols/MU.md) | 美光科技（Micron Technology） | 3 | 0 |
 | [NFLX](symbols/NFLX.md) | 奈飞（Netflix） | 3 | 0 |
 | [NOK](symbols/NOK.md) | 诺基亚（Nokia） | 2 | 0 |
-| [NVDA](symbols/NVDA.md) | 英伟达（NVIDIA） | 3 | 0 |
+| [NVDA](symbols/NVDA.md) | 英伟达（NVIDIA） | 3 | 3 |
 | [ORCL](symbols/ORCL.md) | 甲骨文（Oracle） | 5 | 0 |
 | [PDD](symbols/PDD.md) | 拼多多（PDD Holdings） | 3 | 0 |
 | [PLTR](symbols/PLTR.md) | Palantir | 3 | 0 |
@@ -78,13 +78,14 @@
 
 | 日期 | 标的 | 问题 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | NVDA 英伟达 | [英伟达新增1500亿美元回购，股价应该涨多少个点？](qa/NVDA-1129.md)：回购本身大约值1个点，盘前已经涨出来了。接下来的涨跌主要看11月下旬的第三季度财报、Rubin的出货情况，以及现金流能不能回升。 | [Anthropic Claude（Opus-5.5）](qa/NVDA-1129.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](qa/NVDA-1130.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/NVDA-1131.md) |
 | 2026-09-28 | GDDY GoDaddy、GEN Gen Digital | [GEN传收购GoDaddy致股价暴跌，分析跌多少合理?](qa/GDDY-GEN-1098.md)：合理跌10–18%（约$24–26），实际跌26%，已按收购必成定价，偏超跌。 | [Anthropic Claude（Opus-5.5）](qa/GDDY-GEN-1098.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](qa/GEN-GDDY-1096.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/GDDY-GEN-1097.md) |
 | 2026-09-22 | GRML 格陵兰矿业 | [格陵兰相关标的暴涨的原因？](qa/GRML-1033.md)：安全协议点燃格陵兰资源题材，GRML扩区申请再添一把火；真正决定后劲的，是美国的钱、订单和开发许可会不会落到这些公司身上。 | [OpenAI ChatGPT（GPT-6-Pro）](qa/GRML-1033.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/GRML-1032.md) |
 | 2026-09-22 | HOOD Robinhood Markets | [加密货币相关标的最近都在涨，是什么原因？](qa/HOOD-1028.md)：监管打开空间，资金回流推动，逼空放大涨幅。 | [OpenAI ChatGPT（GPT-6-Pro）](qa/HOOD-1028.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/HOOD-1029.md) |
 | 2026-09-22 | — | [昨晚CPU暴涨是因为什么，是否可持续？](qa/1023.md)：CPU 需求重估有依据，短线股价已抢跑。 | [OpenAI ChatGPT（GPT-6-Pro）](qa/1023.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/1022.md) |
 | 2026-09-17 | CRWV CoreWeave | [CoreWeave发布30亿可转债，估算合理跌幅](qa/CRWV-1003.md)：公告前价格下方4%—7%视为可以解释的短期折价区间 | [OpenAI ChatGPT（GPT-6-Pro）](qa/CRWV-1003.md)<br>[Google Spark（Gemini-3-Pro）](qa/CRWV-1004.md) |
 
-[全部 11 条问答](qa/README.md)
+[全部 14 条问答](qa/README.md)
 
 ## 教程
 
@@ -127,4 +128,4 @@
 
 ## English
 
-AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (115 research reports, 11 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMD (Advanced Micro Devices), AMZN (Amazon), ARM, ASPI (ASP Isotopes), AVGO (Broadcom), BWXT (BWX Technologies), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), GDDY (GoDaddy), GEN (Gen Digital), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, MCD (McDonald's), META, MSFT (Microsoft), MSTR (Strategy), MU (Micron Technology), NFLX (Netflix), NOK (Nokia), NVDA (NVIDIA), ORCL (Oracle), PDD (PDD Holdings), PLTR (Palantir), QCOM (Qualcomm Incorporated), SECZ (Securitize Corp), SNDK (Sandisk Corporation), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), TSM (TSMC), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
+AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (115 research reports, 14 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMD (Advanced Micro Devices), AMZN (Amazon), ARM, ASPI (ASP Isotopes), AVGO (Broadcom), BWXT (BWX Technologies), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), GDDY (GoDaddy), GEN (Gen Digital), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, MCD (McDonald's), META, MSFT (Microsoft), MSTR (Strategy), MU (Micron Technology), NFLX (Netflix), NOK (Nokia), NVDA (NVIDIA), ORCL (Oracle), PDD (PDD Holdings), PLTR (Palantir), QCOM (Qualcomm Incorporated), SECZ (Securitize Corp), SNDK (Sandisk Corporation), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), TSM (TSMC), UNH (UnitedHealth), ZM (Zoom). Not investment advice.

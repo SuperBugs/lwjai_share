@@ -31,7 +31,7 @@
 | [MU](MU.md) | 美光科技（Micron Technology） | 3 | 0 |
 | [NFLX](NFLX.md) | 奈飞（Netflix） | 3 | 0 |
 | [NOK](NOK.md) | 诺基亚（Nokia） | 2 | 0 |
-| [NVDA](NVDA.md) | 英伟达（NVIDIA） | 3 | 0 |
+| [NVDA](NVDA.md) | 英伟达（NVIDIA） | 3 | 3 |
 | [ORCL](ORCL.md) | 甲骨文（Oracle） | 5 | 0 |
 | [PDD](PDD.md) | 拼多多（PDD Holdings） | 3 | 0 |
 | [PLTR](PLTR.md) | Palantir | 3 | 0 |
