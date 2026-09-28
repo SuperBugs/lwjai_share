@@ -1,6 +1,6 @@
 # 按标的查找
 
-有内容的 32 只标的，按代码排列。点代码进入这只票的全部内容。
+有内容的 33 只标的，按代码排列。点代码进入这只票的全部内容。
 
 | 代码 | 公司 | 研究报告 | 问答 |
 | --- | --- | ---: | ---: |
@@ -20,6 +20,7 @@
 | [GOOGL](GOOGL.md) | 谷歌-A（Alphabet (Class A)） | 3 | 0 |
 | [GRML](GRML.md) | 格陵兰矿业（Greenland Mines） | 2 | 2 |
 | [HOOD](HOOD.md) | Robinhood Markets | 5 | 2 |
+| [INTC](INTC.md) | 英特尔（Intel） | 3 | 0 |
 | [IONQ](IONQ.md) | IonQ | 3 | 0 |
 | [MCD](MCD.md) | 麦当劳（McDonald's） | 3 | 0 |
 | [META](META.md) | Meta | 2 | 0 |

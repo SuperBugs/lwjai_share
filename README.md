@@ -4,7 +4,7 @@
 
 [研究报告](research/README.md) · [问答](qa/README.md) · [教程](guides/README.md) · [提示词](prompts/README.md) · [按标的查找](symbols/README.md) · [微信交流群](#微信交流群) · [网站](https://lwj.ai/)
 
-- 收录研究报告 91 篇、问答 11 条、教程 1 篇、提示词 2 份，覆盖 32 只美股标的。
+- 收录研究报告 94 篇、问答 11 条、教程 1 篇、提示词 2 份，覆盖 33 只美股标的。
 - 最近更新：2026-09-28（北京时间）
 - 同一选题由多个 AI 智能体分别研究，列在同一行，便于对照。
 - 正文与网站原文一致；网站版另有目录、同题切换与全文搜索。
@@ -30,6 +30,7 @@
 | [GOOGL](symbols/GOOGL.md) | 谷歌-A（Alphabet (Class A)） | 3 | 0 |
 | [GRML](symbols/GRML.md) | 格陵兰矿业（Greenland Mines） | 2 | 2 |
 | [HOOD](symbols/HOOD.md) | Robinhood Markets | 5 | 2 |
+| [INTC](symbols/INTC.md) | 英特尔（Intel） | 3 | 0 |
 | [IONQ](symbols/IONQ.md) | IonQ | 3 | 0 |
 | [MCD](symbols/MCD.md) | 麦当劳（McDonald's） | 3 | 0 |
 | [META](symbols/META.md) | Meta | 2 | 0 |
@@ -51,6 +52,7 @@
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | INTC 英特尔 | [月内高位，人工智能预期推动上涨；预计十月财报验证，盈利兑现不足或压低估值。](research/INTC-1106.md) | [OpenAI ChatGPT（GPT-6-Pro）](research/INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](research/INTC-1107.md)<br>[Google Spark（Gemini-3.1-Pro）](research/INTC-1105.md) |
 | 2026-09-28 | UNH 联合健康 | [股价接近月内低点，近日横盘；10月13日公布三季报，医疗成本回升或拖累盈利。](research/UNH-1104.md) | [Anthropic Claude（Opus-5.5）](research/UNH-1104.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/UNH-1102.md)<br>[Google Spark（Gemini-3.1-Pro）](research/UNH-1099.md) |
 | 2026-09-28 | ADBE 奥多比 | [股价接近月内低点，近5日跌5.4%；关注12月9日四季报，付费增长或继续放缓。](research/ADBE-1103.md) | [Anthropic Claude（Opus-5.5）](research/ADBE-1103.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/ADBE-1100.md)<br>[Google Spark（Gemini-3.1-Pro）](research/ADBE-1101.md) |
 | 2026-09-28 | GEN Gen Digital | [传收购GoDaddy致股价跌至月内低点；预计11月上旬发财报，若发股收购或摊薄。](research/GEN-1095.md) | [Anthropic Claude（Opus-5.5）](research/GEN-1095.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/GEN-1093.md)<br>[Google Spark（Gemini-3.1-Pro）](research/GEN-1094.md) |
@@ -62,9 +64,8 @@
 | 2026-09-24 | HOOD Robinhood Markets | [接近月内高点，代币化获放行及加密回暖推动近日大涨；预计11月初季报，或不及预期。](research/HOOD-1075.md) | [Anthropic Claude（Opus-5.5）](research/HOOD-1075.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/HOOD-1077.md)<br>[Google Spark（Gemini-3.1-Pro）](research/HOOD-1076.md) |
 | 2026-09-24 | CRCL Circle | [股价处月内区间中部，近日随币市反弹；10月28日美联储议息，稳定币增长或停滞。](research/CRCL-1072.md) | [Anthropic Claude（Opus-5.5）](research/CRCL-1072.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/CRCL-1074.md)<br>[Google Spark（Gemini-3.1-Pro）](research/CRCL-1073.md) |
 | 2026-09-24 | IONQ | [股价处月内高位，研究与英伟达消息带动反弹；关注11月三季报，量子业务增速或放缓。](research/IONQ-1071.md) | [Anthropic Claude（Opus-5.5）](research/IONQ-1071.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/IONQ-1069.md)<br>[Google Spark（Gemini-3.1-Pro）](research/IONQ-1070.md) |
-| 2026-09-24 | TEM Tempus AI | [接近月内高点，或因报销提价预期冲高，随后回落；关注三季报，利润爬坡或不及指引。](research/TEM-1068.md) | [Anthropic Claude（Opus-5.5）](research/TEM-1068.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/TEM-1067.md)<br>[Google Spark（Gemini-3.1-Pro）](research/TEM-1066.md) |
 
-[全部 91 篇研究报告](research/README.md)
+[全部 94 篇研究报告](research/README.md)
 
 ## 最新问答
 
@@ -111,12 +112,12 @@
 
 美股 · 美股研究 · 美股分析 · 个股研究 · 研究报告 · 研报 · AI 研报 · 财报 · 估值 · 投资研究 · 美股问答 · AI 智能体 · 大模型 · ChatGPT · Claude · Gemini · US stocks · stock analysis · equity research · AI stock research
 
-标的：AAPL 苹果 Apple · ADBE 奥多比 Adobe · AMC AMC院线 AMC Entertainment · AMZN 亚马逊 Amazon · ARM · ASPI ASP Isotopes · BWXT BWX Technologies · CRCL Circle · CRWV CoreWeave · DKNG DraftKings · DXYZ Destiny Tech100 · GDDY GoDaddy · GEN Gen Digital · GOOGL 谷歌-A Alphabet (Class A) · GRML 格陵兰矿业 Greenland Mines · HOOD Robinhood Markets · IONQ · MCD 麦当劳 McDonald's · META · MSFT 微软 Microsoft · MU 美光科技 Micron Technology · NFLX 奈飞 Netflix · NOK 诺基亚 Nokia · NVDA 英伟达 NVIDIA · ORCL 甲骨文 Oracle · QCOM 高通 Qualcomm Incorporated · SECZ Securitize Corp · SPCX SpaceX · TEM Tempus AI · TSLA 特斯拉 Tesla · UNH 联合健康 UnitedHealth · ZM Zoom
+标的：AAPL 苹果 Apple · ADBE 奥多比 Adobe · AMC AMC院线 AMC Entertainment · AMZN 亚马逊 Amazon · ARM · ASPI ASP Isotopes · BWXT BWX Technologies · CRCL Circle · CRWV CoreWeave · DKNG DraftKings · DXYZ Destiny Tech100 · GDDY GoDaddy · GEN Gen Digital · GOOGL 谷歌-A Alphabet (Class A) · GRML 格陵兰矿业 Greenland Mines · HOOD Robinhood Markets · INTC 英特尔 Intel · IONQ · MCD 麦当劳 McDonald's · META · MSFT 微软 Microsoft · MU 美光科技 Micron Technology · NFLX 奈飞 Netflix · NOK 诺基亚 Nokia · NVDA 英伟达 NVIDIA · ORCL 甲骨文 Oracle · QCOM 高通 Qualcomm Incorporated · SECZ Securitize Corp · SPCX SpaceX · TEM Tempus AI · TSLA 特斯拉 Tesla · UNH 联合健康 UnitedHealth · ZM Zoom
 
 标签：个股研究 · 宏观 · 行业 · 估值
 
-智能体与模型：Anthropic Claude（Opus-5.5） · OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
+智能体与模型：OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Opus-5.5） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
 
 ## English
 
-AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (91 research reports, 11 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMZN (Amazon), ARM, ASPI (ASP Isotopes), BWXT (BWX Technologies), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), GDDY (GoDaddy), GEN (Gen Digital), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), IONQ, MCD (McDonald's), META, MSFT (Microsoft), MU (Micron Technology), NFLX (Netflix), NOK (Nokia), NVDA (NVIDIA), ORCL (Oracle), QCOM (Qualcomm Incorporated), SECZ (Securitize Corp), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
+AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (94 research reports, 11 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMZN (Amazon), ARM, ASPI (ASP Isotopes), BWXT (BWX Technologies), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), GDDY (GoDaddy), GEN (Gen Digital), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, MCD (McDonald's), META, MSFT (Microsoft), MU (Micron Technology), NFLX (Netflix), NOK (Nokia), NVDA (NVIDIA), ORCL (Oracle), QCOM (Qualcomm Incorporated), SECZ (Securitize Corp), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
