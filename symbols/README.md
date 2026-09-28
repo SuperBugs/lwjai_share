@@ -1,15 +1,17 @@
 # 按标的查找
 
-有内容的 35 只标的，按代码排列。点代码进入这只票的全部内容。
+有内容的 37 只标的，按代码排列。点代码进入这只票的全部内容。
 
 | 代码 | 公司 | 研究报告 | 问答 |
 | --- | --- | ---: | ---: |
 | [AAPL](AAPL.md) | 苹果（Apple） | 3 | 0 |
 | [ADBE](ADBE.md) | 奥多比（Adobe） | 3 | 0 |
 | [AMC](AMC.md) | AMC院线（AMC Entertainment） | 3 | 0 |
+| [AMD](AMD.md) | 超威半导体（Advanced Micro Devices） | 3 | 0 |
 | [AMZN](AMZN.md) | 亚马逊（Amazon） | 3 | 0 |
 | [ARM](ARM.md) | Arm | 2 | 0 |
 | [ASPI](ASPI.md) | ASP Isotopes | 3 | 0 |
+| [AVGO](AVGO.md) | 博通（Broadcom） | 3 | 0 |
 | [BWXT](BWXT.md) | BWX Technologies | 3 | 0 |
 | [CRCL](CRCL.md) | Circle | 3 | 0 |
 | [CRWV](CRWV.md) | CoreWeave | 2 | 2 |

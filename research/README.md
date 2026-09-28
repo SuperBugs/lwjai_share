@@ -1,9 +1,11 @@
 # 研究报告
 
-共 100 篇，37 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 106 篇，39 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | AVGO 博通 | [近日或因中国审查报道跌至月内中下部；预计10月底迎云厂商财报，大客户融资存风险。](AVGO-1117.md) | [Anthropic Claude（Opus-5.5）](AVGO-1117.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](AVGO-1119.md)<br>[Google Spark（Gemini-3.1-Pro）](AVGO-1118.md) |
+| 2026-09-28 | AMD 超威半导体 | [接近月内高点，智能体走红助推近日大涨；预计11月3日财报，算力需求预期或降温。](AMD-1114.md) | [Anthropic Claude（Opus-5.5）](AMD-1114.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](AMD-1116.md)<br>[Google Spark（Gemini-3.1-Pro）](AMD-1115.md) |
 | 2026-09-28 | SNDK 闪迪 | [股价处月内区间中上部，近五日跑输同行；预计11月初发布财报，闪存涨价或放缓。](SNDK-1111.md) | [Anthropic Claude（Opus-5.5）](SNDK-1111.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](SNDK-1113.md)<br>[Google Spark（Gemini-3.1-Pro）](SNDK-1112.md) |
 | 2026-09-28 | PLTR Palantir | [股价接近月内高点，近一周涨近7%；预计11月初发三季报，高估值下若逊预期或回落。](PLTR-1108.md) | [Anthropic Claude（Opus-5.5）](PLTR-1108.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](PLTR-1110.md)<br>[Google Spark（Gemini-3.1-Pro）](PLTR-1109.md) |
 | 2026-09-28 | INTC 英特尔 | [接近月内高点，近日随处理器股大涨；预计10月22日公布财报，指引不及预期或回调。](INTC-1105.md) | [Anthropic Claude（Opus-5.5）](INTC-1105.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](INTC-1106.md)<br>[Google Spark（Gemini-3.1-Pro）](INTC-1107.md) |
