@@ -1,6 +1,6 @@
 # 按标的查找
 
-有内容的 37 只标的，按代码排列。点代码进入这只票的全部内容。
+有内容的 40 只标的，按代码排列。点代码进入这只票的全部内容。
 
 | 代码 | 公司 | 研究报告 | 问答 |
 | --- | --- | ---: | ---: |
@@ -27,11 +27,13 @@
 | [MCD](MCD.md) | 麦当劳（McDonald's） | 3 | 0 |
 | [META](META.md) | Meta | 2 | 0 |
 | [MSFT](MSFT.md) | 微软（Microsoft） | 3 | 0 |
+| [MSTR](MSTR.md) | 微策略（Strategy） | 3 | 0 |
 | [MU](MU.md) | 美光科技（Micron Technology） | 3 | 0 |
 | [NFLX](NFLX.md) | 奈飞（Netflix） | 3 | 0 |
 | [NOK](NOK.md) | 诺基亚（Nokia） | 2 | 0 |
 | [NVDA](NVDA.md) | 英伟达（NVIDIA） | 3 | 0 |
 | [ORCL](ORCL.md) | 甲骨文（Oracle） | 5 | 0 |
+| [PDD](PDD.md) | 拼多多（PDD Holdings） | 3 | 0 |
 | [PLTR](PLTR.md) | Palantir | 3 | 0 |
 | [QCOM](QCOM.md) | 高通（Qualcomm Incorporated） | 2 | 0 |
 | [SECZ](SECZ.md) | Securitize Corp | 2 | 0 |
@@ -39,6 +41,7 @@
 | [SPCX](SPCX.md) | SpaceX | 3 | 0 |
 | [TEM](TEM.md) | Tempus AI | 3 | 0 |
 | [TSLA](TSLA.md) | 特斯拉（Tesla） | 3 | 0 |
+| [TSM](TSM.md) | 台积电（TSMC） | 3 | 0 |
 | [UNH](UNH.md) | 联合健康（UnitedHealth） | 3 | 0 |
 | [ZM](ZM.md) | Zoom | 3 | 0 |
 

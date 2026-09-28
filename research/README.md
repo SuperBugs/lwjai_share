@@ -1,9 +1,12 @@
 # 研究报告
 
-共 106 篇，39 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 115 篇，42 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-28 | PDD 拼多多 | [股价接近月内低点，收入不及预期叠加中概股走弱；关注双11补贴，投入或续压利润。](PDD-1126.md) | [Anthropic Claude（Opus-5.5）](PDD-1126.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](PDD-1127.md)<br>[Google Spark（Gemini-3.1-Pro）](PDD-1128.md) |
+| 2026-09-28 | TSM 台积电 | [股价接近月内高点，近日随芯片股走高；10月15日财报，毛利率指引或承压。](TSM-1123.md) | [Anthropic Claude（Opus-5.5）](TSM-1123.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](TSM-1124.md)<br>[Google Spark（Gemini-3.1-Pro）](TSM-1125.md) |
+| 2026-09-28 | MSTR 微策略 | [股价处月内中上部，近日随比特币冲高回落；10月16日前明晟定去留，溢价或收缩。](MSTR-1120.md) | [Anthropic Claude（Opus-5.5）](MSTR-1120.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MSTR-1121.md)<br>[Google Spark（Gemini-3.1-Pro）](MSTR-1122.md) |
 | 2026-09-28 | AVGO 博通 | [近日或因中国审查报道跌至月内中下部；预计10月底迎云厂商财报，大客户融资存风险。](AVGO-1117.md) | [Anthropic Claude（Opus-5.5）](AVGO-1117.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](AVGO-1119.md)<br>[Google Spark（Gemini-3.1-Pro）](AVGO-1118.md) |
 | 2026-09-28 | AMD 超威半导体 | [接近月内高点，智能体走红助推近日大涨；预计11月3日财报，算力需求预期或降温。](AMD-1114.md) | [Anthropic Claude（Opus-5.5）](AMD-1114.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](AMD-1116.md)<br>[Google Spark（Gemini-3.1-Pro）](AMD-1115.md) |
 | 2026-09-28 | SNDK 闪迪 | [股价处月内区间中上部，近五日跑输同行；预计11月初发布财报，闪存涨价或放缓。](SNDK-1111.md) | [Anthropic Claude（Opus-5.5）](SNDK-1111.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](SNDK-1113.md)<br>[Google Spark（Gemini-3.1-Pro）](SNDK-1112.md) |
