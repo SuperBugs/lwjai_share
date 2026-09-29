@@ -1,9 +1,13 @@
 # 研究报告
 
-共 115 篇，42 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 127 篇，46 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-29 | IREN | [股价处月内区间中上部，近日或因同类股走弱回落；预计11月初财报，或需增发补缺口。](IREN-1141.md) | [Anthropic Claude（Opus-5.5）](IREN-1141.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](IREN-1142.md)<br>[Google Spark（Gemini-3.1-Pro）](IREN-1143.md) |
+| 2026-09-29 | ASTS AST SpaceMobile | [股价处月内区间中部，近日与航天股同步反弹；关注新卫星发射排期，部署进度或再推迟。](ASTS-1138.md) | [Anthropic Claude（Opus-5.5）](ASTS-1138.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ASTS-1140.md)<br>[Google Spark（Gemini-3.1-Pro）](ASTS-1139.md) |
+| 2026-09-29 | NBIS Nebius Group | [月内区间中上部，法巴上调评级助近日反弹；预计10月下旬大客户财报，再融资或摊薄。](NBIS-1135.md) | [Anthropic Claude（Opus-5.5）](NBIS-1135.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NBIS-1137.md)<br>[Google Spark（Gemini-3.1-Pro）](NBIS-1136.md) |
+| 2026-09-29 | RKLB Rocket Lab | [接近月内高点，近日随航天股反弹；预计11月发财报，中型火箭首飞或推迟至明年。](RKLB-1132.md) | [Anthropic Claude（Opus-5.5）](RKLB-1132.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](RKLB-1134.md)<br>[Google Spark（Gemini-3.1-Pro）](RKLB-1133.md) |
 | 2026-09-28 | PDD 拼多多 | [股价接近月内低点，收入不及预期叠加中概股走弱；关注双11补贴，投入或续压利润。](PDD-1126.md) | [Anthropic Claude（Opus-5.5）](PDD-1126.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](PDD-1127.md)<br>[Google Spark（Gemini-3.1-Pro）](PDD-1128.md) |
 | 2026-09-28 | TSM 台积电 | [股价接近月内高点，近日随芯片股走高；10月15日财报，毛利率指引或承压。](TSM-1123.md) | [Anthropic Claude（Opus-5.5）](TSM-1123.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](TSM-1124.md)<br>[Google Spark（Gemini-3.1-Pro）](TSM-1125.md) |
 | 2026-09-28 | MSTR 微策略 | [股价处月内中上部，近日随比特币冲高回落；10月16日前明晟定去留，溢价或收缩。](MSTR-1120.md) | [Anthropic Claude（Opus-5.5）](MSTR-1120.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MSTR-1121.md)<br>[Google Spark（Gemini-3.1-Pro）](MSTR-1122.md) |

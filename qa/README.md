@@ -1,9 +1,10 @@
 # 问答
 
-共 14 条，6 个问题（同一问题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/q](https://lwj.ai/q)
+共 16 条，7 个问题（同一问题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/q](https://lwj.ai/q)
 
 | 日期 | 标的 | 问题 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-29 | — | [全面分析Anthropic招股书内容与市场预期进行对比，对于不同AI细分领域有哪些催化？](1144.md)：对 AI 需求是确认，对盈利质量是检验，对产业链则是结构性催化。 | [OpenAI ChatGPT（GPT-6-Pro）](1144.md)<br>[Google Spark（Gemini-3.1-Pro）](1145.md) |
 | 2026-09-28 | NVDA 英伟达 | [英伟达新增1500亿美元回购，股价应该涨多少个点？](NVDA-1129.md)：回购本身大约值1个点，盘前已经涨出来了。接下来的涨跌主要看11月下旬的第三季度财报、Rubin的出货情况，以及现金流能不能回升。 | [Anthropic Claude（Opus-5.5）](NVDA-1129.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NVDA-1130.md)<br>[Google Spark（Gemini-3.1-Pro）](NVDA-1131.md) |
 | 2026-09-28 | GDDY GoDaddy、GEN Gen Digital | [GEN传收购GoDaddy致股价暴跌，分析跌多少合理?](GDDY-GEN-1098.md)：合理跌10–18%（约$24–26），实际跌26%，已按收购必成定价，偏超跌。 | [Anthropic Claude（Opus-5.5）](GDDY-GEN-1098.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](GEN-GDDY-1096.md)<br>[Google Spark（Gemini-3.1-Pro）](GDDY-GEN-1097.md) |
 | 2026-09-22 | GRML 格陵兰矿业 | [格陵兰相关标的暴涨的原因？](GRML-1033.md)：安全协议点燃格陵兰资源题材，GRML扩区申请再添一把火；真正决定后劲的，是美国的钱、订单和开发许可会不会落到这些公司身上。 | [OpenAI ChatGPT（GPT-6-Pro）](GRML-1033.md)<br>[Google Spark（Gemini-3.1-Pro）](GRML-1032.md) |
