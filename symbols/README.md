@@ -1,6 +1,6 @@
 # 按标的查找
 
-有内容的 44 只标的，按代码排列。点代码进入这只票的全部内容。
+有内容的 51 只标的，按代码排列。点代码进入这只票的全部内容。
 
 | 代码 | 公司 | 研究报告 | 问答 |
 | --- | --- | ---: | ---: |
@@ -13,7 +13,9 @@
 | [ASPI](ASPI.md) | ASP Isotopes | 3 | 0 |
 | [ASTS](ASTS.md) | AST SpaceMobile | 3 | 0 |
 | [AVGO](AVGO.md) | 博通（Broadcom） | 3 | 0 |
+| [BA](BA.md) | 波音（Boeing） | 3 | 0 |
 | [BWXT](BWXT.md) | BWX Technologies | 3 | 0 |
+| [COIN](COIN.md) | Coinbase | 3 | 0 |
 | [CRCL](CRCL.md) | Circle | 3 | 0 |
 | [CRWV](CRWV.md) | CoreWeave | 2 | 2 |
 | [DKNG](DKNG.md) | DraftKings | 2 | 0 |
@@ -26,6 +28,8 @@
 | [INTC](INTC.md) | 英特尔（Intel） | 3 | 0 |
 | [IONQ](IONQ.md) | IonQ | 3 | 0 |
 | [IREN](IREN.md) | IREN | 3 | 0 |
+| [KO](KO.md) | 可口可乐（Coca-Cola） | 3 | 0 |
+| [MARA](MARA.md) | MARA Holdings | 3 | 0 |
 | [MCD](MCD.md) | 麦当劳（McDonald's） | 3 | 0 |
 | [META](META.md) | Meta | 2 | 0 |
 | [MSFT](MSFT.md) | 微软（Microsoft） | 3 | 0 |
@@ -35,13 +39,16 @@
 | [NFLX](NFLX.md) | 奈飞（Netflix） | 3 | 0 |
 | [NOK](NOK.md) | 诺基亚（Nokia） | 2 | 0 |
 | [NVDA](NVDA.md) | 英伟达（NVIDIA） | 3 | 3 |
+| [ONDS](ONDS.md) | Ondas | 3 | 0 |
 | [ORCL](ORCL.md) | 甲骨文（Oracle） | 5 | 0 |
 | [PDD](PDD.md) | 拼多多（PDD Holdings） | 3 | 0 |
 | [PLTR](PLTR.md) | Palantir | 3 | 0 |
+| [PLUG](PLUG.md) | 普拉格能源（Plug Power） | 3 | 0 |
 | [QCOM](QCOM.md) | 高通（Qualcomm Incorporated） | 2 | 0 |
 | [RKLB](RKLB.md) | Rocket Lab | 3 | 0 |
 | [SECZ](SECZ.md) | Securitize Corp | 2 | 0 |
 | [SNDK](SNDK.md) | 闪迪（Sandisk Corporation） | 3 | 0 |
+| [SNOW](SNOW.md) | Snowflake | 3 | 0 |
 | [SPCX](SPCX.md) | SpaceX | 3 | 0 |
 | [TEM](TEM.md) | Tempus AI | 3 | 0 |
 | [TSLA](TSLA.md) | 特斯拉（Tesla） | 3 | 0 |

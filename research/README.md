@@ -1,9 +1,16 @@
 # 研究报告
 
-共 127 篇，46 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 148 篇，53 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-29 | ONDS Ondas | [股价处月内区间中部，近日逆势小涨；关注预计11月中旬三季报，并购发股持续摊薄。](ONDS-1167.md) | [Anthropic Claude（Opus-5.5）](ONDS-1167.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ONDS-1166.md)<br>[Google Spark（Gemini-3.1-Pro）](ONDS-1165.md) |
+| 2026-09-29 | PLUG 普拉格能源 | [股价处月内低位，近日随燃料电池股走弱续跌；预计11月上旬发三季报，或增发摊薄。](PLUG-1162.md) | [Anthropic Claude（Opus-5.5）](PLUG-1162.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](PLUG-1164.md)<br>[Google Spark（Gemini-3.1-Pro）](PLUG-1163.md) |
+| 2026-09-29 | MARA MARA Holdings | [股价处月内区间中部，近日随矿企板块连跌；预计11月初发财报，数据中心租约或延后。](MARA-1159.md) | [Anthropic Claude（Opus-5.5）](MARA-1159.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MARA-1161.md)<br>[Google Spark（Gemini-3.1-Pro）](MARA-1160.md) |
+| 2026-09-29 | COIN Coinbase | [处于月内区间中上部，近日随比特币回落；预计10月29日发三季报，交易收入或偏弱。](COIN-1158.md) | [Anthropic Claude（Opus-5.5）](COIN-1158.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](COIN-1157.md)<br>[Google Spark（Gemini-3.1-Pro）](COIN-1156.md) |
+| 2026-09-29 | KO 可口可乐 | [股价接近月内低点，近日横盘；预计10月27日发三季报，利率走高或续压估值。](KO-1153.md) | [Anthropic Claude（Opus-5.5）](KO-1153.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](KO-1154.md)<br>[Google Spark（Gemini-3.1-Pro）](KO-1150.md) |
+| 2026-09-29 | SNOW Snowflake | [股价处月内区间中下部，发可转债及板块走弱致近日回落；10月28日若加息或压估值。](SNOW-1146.md) | [Anthropic Claude（Opus-5.5）](SNOW-1146.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](SNOW-1152.md)<br>[Google Spark（Gemini-3.1-Pro）](SNOW-1149.md) |
+| 2026-09-29 | BA 波音 | [股价处月内低点，737-10认证推迟致重挫；10月1日工会表决，现金流或下修。](BA-1147.md) | [Anthropic Claude（Opus-5.5）](BA-1147.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](BA-1151.md)<br>[Google Spark（Gemini-3.1-Pro）](BA-1148.md) |
 | 2026-09-29 | IREN | [股价处月内区间中上部，近日或因同类股走弱回落；预计11月初财报，或需增发补缺口。](IREN-1141.md) | [Anthropic Claude（Opus-5.5）](IREN-1141.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](IREN-1142.md)<br>[Google Spark（Gemini-3.1-Pro）](IREN-1143.md) |
 | 2026-09-29 | ASTS AST SpaceMobile | [股价处月内区间中部，近日与航天股同步反弹；关注新卫星发射排期，部署进度或再推迟。](ASTS-1138.md) | [Anthropic Claude（Opus-5.5）](ASTS-1138.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ASTS-1140.md)<br>[Google Spark（Gemini-3.1-Pro）](ASTS-1139.md) |
 | 2026-09-29 | NBIS Nebius Group | [月内区间中上部，法巴上调评级助近日反弹；预计10月下旬大客户财报，再融资或摊薄。](NBIS-1135.md) | [Anthropic Claude（Opus-5.5）](NBIS-1135.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NBIS-1137.md)<br>[Google Spark（Gemini-3.1-Pro）](NBIS-1136.md) |
