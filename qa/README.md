@@ -1,9 +1,13 @@
 # 问答
 
-共 20 条，8 个问题（同一问题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/q](https://lwj.ai/q)
+共 32 条，12 个问题（同一问题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/q](https://lwj.ai/q)
 
 | 日期 | 标的 | 问题 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-30 | — | [美联储时隔三年重新加息，10 月再加息的概率升到约七成：加息周期里美股哪些板块最抗跌、哪些最危险？](1194.md)：能源最抗跌，小盘、可选消费、地产链和公用事业最危险；油价是总开关。 | [Anthropic Claude（Opus-5.5）](1194.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](1196.md)<br>[Google Spark（Gemini-3.1-Pro）](1195.md) |
+| 2026-09-30 | TSLA 特斯拉 | [特斯拉10月2日公布三季度交付，预期约46.2万辆、同比下滑约 7%：交付数会怎样影响股价？储能业务能不能对冲汽车的下滑？](TSLA-1187.md)：交付超预期也未必涨，近四次公布日均跌；储能环比靠一次性能补，同比补不上汽车下滑。 | [Anthropic Claude（Opus-5.5）](TSLA-1187.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](TSLA-1191.md)<br>[Google Spark（Gemini-3.1-Pro）](TSLA-1192.md) |
+| 2026-09-30 | BA 波音 | [美国联邦航空局推迟737MAX10认证，波音一天跌了近 7%：这次软件问题对交付和现金流影响多大，跌得合理吗？](BA-1188.md)：软件问题几乎不碰今年交付与现金流，风险在2027年；跌6.9%偏多，看FAA定性。 | [Anthropic Claude（Opus-5.5）](BA-1188.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](BA-1189.md)<br>[Google Spark（Gemini-3.1-Pro）](BA-1190.md) |
+| 2026-09-30 | NKE 耐克 | [耐克10月1日盘后发财报，做空股数创下纪录：会不会出现空头回补？市场预期是多少？](NKE-1186.md)：空头创了纪录，但占比不高、借券便宜，很难逼空；下季指引好于市场担心才会引发回补，否则股价会再探新低。 | [Anthropic Claude（Opus-5.5）](NKE-1186.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NKE-1184.md)<br>[Google Spark（Gemini-3.1-Pro）](NKE-1185.md) |
 | 2026-09-30 | MU 美光科技 | [美光财报将出，需要关注哪些核心数据，与市场预期进行对比。](MU-1179.md)：一致预期已近指引上限，营收需超$52B才算超预期，股价主要看FQ1指引能否超$57B、毛利率是否见顶。 | [Anthropic Claude（Opus-5.5）](MU-1179.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MU-1181.md)<br>[Google Spark（Gemini-3.1-Pro）](MU-1180.md) |
 | 2026-09-29 | — | [全面分析Anthropic招股书内容与市场预期进行对比，对于不同AI细分领域有哪些催化？](1155.md)：收入符合预期、巨亏多为非现金、估值处上沿；5180亿算力义务利好TPU与数据中心链，SaaS承压，关键看公开S-1。 | [Anthropic Claude（Opus-5.5）](1155.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](1144.md)<br>[Google Spark（Gemini-3.1-Pro）](1145.md) |
 | 2026-09-28 | NVDA 英伟达 | [英伟达新增1500亿美元回购，股价应该涨多少个点？](NVDA-1129.md)：回购本身大约值1个点，盘前已经涨出来了。接下来的涨跌主要看11月下旬的第三季度财报、Rubin的出货情况，以及现金流能不能回升。 | [Anthropic Claude（Opus-5.5）](NVDA-1129.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NVDA-1130.md)<br>[Google Spark（Gemini-3.1-Pro）](NVDA-1131.md) |

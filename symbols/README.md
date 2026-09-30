@@ -1,6 +1,6 @@
 # 按标的查找
 
-有内容的 54 只标的，按代码排列。点代码进入这只票的全部内容。
+有内容的 55 只标的，按代码排列。点代码进入这只票的全部内容。
 
 | 代码 | 公司 | 研究报告 | 问答 |
 | --- | --- | ---: | ---: |
@@ -13,14 +13,14 @@
 | [ASPI](ASPI.md) | ASP Isotopes | 3 | 0 |
 | [ASTS](ASTS.md) | AST SpaceMobile | 3 | 0 |
 | [AVGO](AVGO.md) | 博通（Broadcom） | 3 | 0 |
-| [BA](BA.md) | 波音（Boeing） | 3 | 0 |
+| [BA](BA.md) | 波音（Boeing） | 3 | 3 |
 | [BWXT](BWXT.md) | BWX Technologies | 3 | 0 |
 | [COIN](COIN.md) | Coinbase | 3 | 0 |
 | [CRCL](CRCL.md) | Circle | 3 | 0 |
 | [CRWV](CRWV.md) | CoreWeave | 2 | 2 |
-| [DKNG](DKNG.md) | DraftKings | 2 | 0 |
+| [DKNG](DKNG.md) | DraftKings | 5 | 0 |
 | [DXYZ](DXYZ.md) | Destiny Tech100 | 5 | 0 |
-| [FLUT](FLUT.md) | Flutter Entertainment | 2 | 0 |
+| [FLUT](FLUT.md) | Flutter Entertainment | 3 | 0 |
 | [GDDY](GDDY.md) | GoDaddy | 0 | 3 |
 | [GEN](GEN.md) | Gen Digital | 3 | 3 |
 | [GLW](GLW.md) | 康宁（Corning） | 3 | 0 |
@@ -40,6 +40,7 @@
 | [MU](MU.md) | 美光科技（Micron Technology） | 3 | 3 |
 | [NBIS](NBIS.md) | Nebius Group | 3 | 0 |
 | [NFLX](NFLX.md) | 奈飞（Netflix） | 3 | 0 |
+| [NKE](NKE.md) | 耐克（Nike） | 0 | 3 |
 | [NOK](NOK.md) | 诺基亚（Nokia） | 2 | 0 |
 | [NVDA](NVDA.md) | 英伟达（NVIDIA） | 3 | 3 |
 | [ONDS](ONDS.md) | Ondas | 3 | 0 |
@@ -54,7 +55,7 @@
 | [SNOW](SNOW.md) | Snowflake | 3 | 0 |
 | [SPCX](SPCX.md) | SpaceX | 3 | 0 |
 | [TEM](TEM.md) | Tempus AI | 3 | 0 |
-| [TSLA](TSLA.md) | 特斯拉（Tesla） | 3 | 0 |
+| [TSLA](TSLA.md) | 特斯拉（Tesla） | 3 | 3 |
 | [TSM](TSM.md) | 台积电（TSMC） | 3 | 0 |
 | [UNH](UNH.md) | 联合健康（UnitedHealth） | 3 | 0 |
 | [ZM](ZM.md) | Zoom | 3 | 0 |
