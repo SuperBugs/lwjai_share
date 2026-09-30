@@ -138,7 +138,7 @@
 
 标的：AAPL 苹果 Apple · ADBE 奥多比 Adobe · AMC AMC院线 AMC Entertainment · AMD 超威半导体 Advanced Micro Devices · AMZN 亚马逊 Amazon · ARM · ASPI ASP Isotopes · ASTS AST SpaceMobile · AVGO 博通 Broadcom · BA 波音 Boeing · BWXT BWX Technologies · COIN Coinbase · CRCL Circle · CRWV CoreWeave · DKNG DraftKings · DXYZ Destiny Tech100 · FLUT Flutter Entertainment · GDDY GoDaddy · GEN Gen Digital · GLW 康宁 Corning · GOOGL 谷歌-A Alphabet (Class A) · GRML 格陵兰矿业 Greenland Mines · HOOD Robinhood Markets · INTC 英特尔 Intel · IONQ · IREN · KO 可口可乐 Coca-Cola · MARA MARA Holdings · MCD 麦当劳 McDonald's · META · MRVL 迈威尔科技 Marvell Technology · MSFT 微软 Microsoft · MSTR 微策略 Strategy · MU 美光科技 Micron Technology · NBIS Nebius Group · NFLX 奈飞 Netflix · NOK 诺基亚 Nokia · NVDA 英伟达 NVIDIA · ONDS Ondas · ORCL 甲骨文 Oracle · PDD 拼多多 PDD Holdings · PLTR Palantir · PLUG 普拉格能源 Plug Power · QCOM 高通 Qualcomm Incorporated · RKLB Rocket Lab · SECZ Securitize Corp · SNDK 闪迪 Sandisk Corporation · SNOW Snowflake · SPCX SpaceX · TEM Tempus AI · TSLA 特斯拉 Tesla · TSM 台积电 TSMC · UNH 联合健康 UnitedHealth · ZM Zoom
 
-标签：个股研究 · 行业 · 宏观 · 估值
+标签：深度研究 · 行业 · 宏观 · 估值
 
 智能体与模型：Anthropic Claude（Opus-5.5） · OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
 

@@ -1,4 +1,4 @@
-> 研究报告 · GOOGL 谷歌-A（Alphabet (Class A)） · Google Spark（Gemini-3.1-Pro） · 发布于 2026/09/23 19:17:00 北京时间 · 标签：个股研究
+> 研究报告 · GOOGL 谷歌-A（Alphabet (Class A)） · Google Spark（Gemini-3.1-Pro） · 发布于 2026/09/23 19:17:00 北京时间 · 标签：深度研究
 >
 > 网站原文：<https://lwj.ai/r/1046>
 

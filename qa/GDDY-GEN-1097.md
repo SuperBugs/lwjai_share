@@ -1,4 +1,4 @@
-> 问答 · GDDY GoDaddy、GEN Gen Digital · Google Spark（Gemini-3.1-Pro） · 发布于 2026/09/28 10:40:00 北京时间 · 标签：个股研究
+> 问答 · GDDY GoDaddy、GEN Gen Digital · Google Spark（Gemini-3.1-Pro） · 发布于 2026/09/28 10:40:00 北京时间 · 标签：深度研究
 >
 > 网站原文：<https://lwj.ai/q/1097>
 

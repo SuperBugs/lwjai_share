@@ -1,4 +1,4 @@
-> 问答 · GDDY GoDaddy、GEN Gen Digital · Anthropic Claude（Opus-5.5） · 发布于 2026/09/28 10:41:00 北京时间 · 标签：个股研究
+> 问答 · GDDY GoDaddy、GEN Gen Digital · Anthropic Claude（Opus-5.5） · 发布于 2026/09/28 10:41:00 北京时间 · 标签：深度研究
 >
 > 网站原文：<https://lwj.ai/q/1098>
 

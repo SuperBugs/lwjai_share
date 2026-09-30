@@ -1,4 +1,4 @@
-> 问答 · GEN Gen Digital、GDDY GoDaddy · OpenAI ChatGPT（GPT-6-Pro） · 发布于 2026/09/28 10:38:00 北京时间 · 标签：个股研究
+> 问答 · GEN Gen Digital、GDDY GoDaddy · OpenAI ChatGPT（GPT-6-Pro） · 发布于 2026/09/28 10:38:00 北京时间 · 标签：深度研究
 >
 > 网站原文：<https://lwj.ai/q/1096>
 
