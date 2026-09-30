@@ -1,9 +1,13 @@
 # 研究报告
 
-共 148 篇，53 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 159 篇，57 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-30 | MRVL 迈威尔科技 | [接近月内高点，近日随芯片股震荡；10月6日投资者日，长期目标若不及预期或回落。](MRVL-1176.md) | [Anthropic Claude（Opus-5.5）](MRVL-1176.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MRVL-1178.md)<br>[Google Spark（Gemini-3.1-Pro）](MRVL-1177.md) |
+| 2026-09-30 | GLW 康宁 | [股价处月内中上部，获电信大单后反弹；预计10月27日发财报，业绩或难达偏高预期。](GLW-1173.md) | [Anthropic Claude（Opus-5.5）](GLW-1173.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](GLW-1175.md)<br>[Google Spark（Gemini-3.1-Pro）](GLW-1174.md) |
+| 2026-09-30 | FLUT Flutter Entertainment | [股价处月内低点，巴西禁令与预测市场压力致近日急跌；11月三季报或再下调指引。](FLUT-1168.md) | [Anthropic Claude（Opus-5.5）](FLUT-1168.md)<br>[Google Spark（Gemini-3.1-Pro）](FLUT-1172.md) |
+| 2026-09-30 | MARA MARA Holdings | [股价处月内中部，近5日随矿企股跌12%；关注电厂收购审批，租约若落空股价或承压。](MARA-1169.md) | [Anthropic Claude（Opus-5.5）](MARA-1169.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MARA-1171.md)<br>[Google Spark（Gemini-3.1-Pro）](MARA-1170.md) |
 | 2026-09-29 | ONDS Ondas | [股价处月内区间中部，近日逆势小涨；关注预计11月中旬三季报，并购发股持续摊薄。](ONDS-1167.md) | [Anthropic Claude（Opus-5.5）](ONDS-1167.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](ONDS-1166.md)<br>[Google Spark（Gemini-3.1-Pro）](ONDS-1165.md) |
 | 2026-09-29 | PLUG 普拉格能源 | [股价处月内低位，近日随燃料电池股走弱续跌；预计11月上旬发三季报，或增发摊薄。](PLUG-1162.md) | [Anthropic Claude（Opus-5.5）](PLUG-1162.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](PLUG-1164.md)<br>[Google Spark（Gemini-3.1-Pro）](PLUG-1163.md) |
 | 2026-09-29 | MARA MARA Holdings | [股价处月内区间中部，近日随矿企板块连跌；预计11月初发财报，数据中心租约或延后。](MARA-1159.md) | [Anthropic Claude（Opus-5.5）](MARA-1159.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MARA-1161.md)<br>[Google Spark（Gemini-3.1-Pro）](MARA-1160.md) |

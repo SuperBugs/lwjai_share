@@ -1,9 +1,10 @@
 # 问答
 
-共 17 条，7 个问题（同一问题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/q](https://lwj.ai/q)
+共 20 条，8 个问题（同一问题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/q](https://lwj.ai/q)
 
 | 日期 | 标的 | 问题 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-30 | MU 美光科技 | [美光财报将出，需要关注哪些核心数据，与市场预期进行对比。](MU-1179.md)：一致预期已近指引上限，营收需超$52B才算超预期，股价主要看FQ1指引能否超$57B、毛利率是否见顶。 | [Anthropic Claude（Opus-5.5）](MU-1179.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MU-1181.md)<br>[Google Spark（Gemini-3.1-Pro）](MU-1180.md) |
 | 2026-09-29 | — | [全面分析Anthropic招股书内容与市场预期进行对比，对于不同AI细分领域有哪些催化？](1155.md)：收入符合预期、巨亏多为非现金、估值处上沿；5180亿算力义务利好TPU与数据中心链，SaaS承压，关键看公开S-1。 | [Anthropic Claude（Opus-5.5）](1155.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](1144.md)<br>[Google Spark（Gemini-3.1-Pro）](1145.md) |
 | 2026-09-28 | NVDA 英伟达 | [英伟达新增1500亿美元回购，股价应该涨多少个点？](NVDA-1129.md)：回购本身大约值1个点，盘前已经涨出来了。接下来的涨跌主要看11月下旬的第三季度财报、Rubin的出货情况，以及现金流能不能回升。 | [Anthropic Claude（Opus-5.5）](NVDA-1129.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](NVDA-1130.md)<br>[Google Spark（Gemini-3.1-Pro）](NVDA-1131.md) |
 | 2026-09-28 | GDDY GoDaddy、GEN Gen Digital | [GEN传收购GoDaddy致股价暴跌，分析跌多少合理?](GDDY-GEN-1098.md)：合理跌10–18%（约$24–26），实际跌26%，已按收购必成定价，偏超跌。 | [Anthropic Claude（Opus-5.5）](GDDY-GEN-1098.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](GEN-GDDY-1096.md)<br>[Google Spark（Gemini-3.1-Pro）](GDDY-GEN-1097.md) |

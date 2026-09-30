@@ -1,6 +1,6 @@
 # 按标的查找
 
-有内容的 51 只标的，按代码排列。点代码进入这只票的全部内容。
+有内容的 54 只标的，按代码排列。点代码进入这只票的全部内容。
 
 | 代码 | 公司 | 研究报告 | 问答 |
 | --- | --- | ---: | ---: |
@@ -20,8 +20,10 @@
 | [CRWV](CRWV.md) | CoreWeave | 2 | 2 |
 | [DKNG](DKNG.md) | DraftKings | 2 | 0 |
 | [DXYZ](DXYZ.md) | Destiny Tech100 | 5 | 0 |
+| [FLUT](FLUT.md) | Flutter Entertainment | 2 | 0 |
 | [GDDY](GDDY.md) | GoDaddy | 0 | 3 |
 | [GEN](GEN.md) | Gen Digital | 3 | 3 |
+| [GLW](GLW.md) | 康宁（Corning） | 3 | 0 |
 | [GOOGL](GOOGL.md) | 谷歌-A（Alphabet (Class A)） | 3 | 0 |
 | [GRML](GRML.md) | 格陵兰矿业（Greenland Mines） | 2 | 2 |
 | [HOOD](HOOD.md) | Robinhood Markets | 5 | 2 |
@@ -29,12 +31,13 @@
 | [IONQ](IONQ.md) | IonQ | 3 | 0 |
 | [IREN](IREN.md) | IREN | 3 | 0 |
 | [KO](KO.md) | 可口可乐（Coca-Cola） | 3 | 0 |
-| [MARA](MARA.md) | MARA Holdings | 3 | 0 |
+| [MARA](MARA.md) | MARA Holdings | 6 | 0 |
 | [MCD](MCD.md) | 麦当劳（McDonald's） | 3 | 0 |
 | [META](META.md) | Meta | 2 | 0 |
+| [MRVL](MRVL.md) | 迈威尔科技（Marvell Technology） | 3 | 0 |
 | [MSFT](MSFT.md) | 微软（Microsoft） | 3 | 0 |
 | [MSTR](MSTR.md) | 微策略（Strategy） | 3 | 0 |
-| [MU](MU.md) | 美光科技（Micron Technology） | 3 | 0 |
+| [MU](MU.md) | 美光科技（Micron Technology） | 3 | 3 |
 | [NBIS](NBIS.md) | Nebius Group | 3 | 0 |
 | [NFLX](NFLX.md) | 奈飞（Netflix） | 3 | 0 |
 | [NOK](NOK.md) | 诺基亚（Nokia） | 2 | 0 |
