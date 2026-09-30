@@ -4,7 +4,7 @@
 
 [研究报告](research/README.md) · [问答](qa/README.md) · [教程](guides/README.md) · [提示词](prompts/README.md) · [按标的查找](symbols/README.md) · [微信交流群](#微信交流群) · [网站](https://lwj.ai/)
 
-- 收录研究报告 163 篇、问答 32 条、教程 1 篇、提示词 2 份，覆盖 55 只美股标的。
+- 收录研究报告 163 篇、问答 35 条、教程 1 篇、提示词 2 份，覆盖 55 只美股标的。
 - 最近更新：2026-09-30（北京时间）
 - 同一选题由多个 AI 智能体分别研究，列在同一行，便于对照。
 - 正文与网站原文一致；网站版另有目录、同题切换与全文搜索。
@@ -93,6 +93,7 @@
 
 | 日期 | 标的 | 问题 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-09-30 | — | [30年期美债收益率升到5.59%、约24年来最高：长端利率会不会冲到 6%，标普还撑得住吗？](qa/1197.md)：30年期冲6%非基准，高位反复更可能；标普19倍不贵但无利率缓冲，靠盈利撑。 | [Anthropic Claude（Opus-5.5）](qa/1197.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](qa/1198.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/1199.md) |
 | 2026-09-30 | — | [美联储时隔三年重新加息，10 月再加息的概率升到约七成：加息周期里美股哪些板块最抗跌、哪些最危险？](qa/1194.md)：能源最抗跌，小盘、可选消费、地产链和公用事业最危险；油价是总开关。 | [Anthropic Claude（Opus-5.5）](qa/1194.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](qa/1196.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/1195.md) |
 | 2026-09-30 | TSLA 特斯拉 | [特斯拉10月2日公布三季度交付，预期约46.2万辆、同比下滑约 7%：交付数会怎样影响股价？储能业务能不能对冲汽车的下滑？](qa/TSLA-1187.md)：交付超预期也未必涨，近四次公布日均跌；储能环比靠一次性能补，同比补不上汽车下滑。 | [Anthropic Claude（Opus-5.5）](qa/TSLA-1187.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](qa/TSLA-1191.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/TSLA-1192.md) |
 | 2026-09-30 | BA 波音 | [美国联邦航空局推迟737MAX10认证，波音一天跌了近 7%：这次软件问题对交付和现金流影响多大，跌得合理吗？](qa/BA-1188.md)：软件问题几乎不碰今年交付与现金流，风险在2027年；跌6.9%偏多，看FAA定性。 | [Anthropic Claude（Opus-5.5）](qa/BA-1188.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](qa/BA-1189.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/BA-1190.md) |
@@ -104,9 +105,8 @@
 | 2026-09-22 | GRML 格陵兰矿业 | [格陵兰相关标的暴涨的原因？](qa/GRML-1033.md)：安全协议点燃格陵兰资源题材，GRML扩区申请再添一把火；真正决定后劲的，是美国的钱、订单和开发许可会不会落到这些公司身上。 | [OpenAI ChatGPT（GPT-6-Pro）](qa/GRML-1033.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/GRML-1032.md) |
 | 2026-09-22 | HOOD Robinhood Markets | [加密货币相关标的最近都在涨，是什么原因？](qa/HOOD-1028.md)：监管打开空间，资金回流推动，逼空放大涨幅。 | [OpenAI ChatGPT（GPT-6-Pro）](qa/HOOD-1028.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/HOOD-1029.md) |
 | 2026-09-22 | — | [昨晚CPU暴涨是因为什么，是否可持续？](qa/1023.md)：CPU 需求重估有依据，短线股价已抢跑。 | [OpenAI ChatGPT（GPT-6-Pro）](qa/1023.md)<br>[Google Spark（Gemini-3.1-Pro）](qa/1022.md) |
-| 2026-09-17 | CRWV CoreWeave | [CoreWeave发布30亿可转债，估算合理跌幅](qa/CRWV-1003.md)：公告前价格下方4%—7%视为可以解释的短期折价区间 | [OpenAI ChatGPT（GPT-6-Pro）](qa/CRWV-1003.md)<br>[Google Spark（Gemini-3-Pro）](qa/CRWV-1004.md) |
 
-[全部 32 条问答](qa/README.md)
+[全部 35 条问答](qa/README.md)
 
 ## 教程
 
@@ -149,4 +149,4 @@
 
 ## English
 
-AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (163 research reports, 32 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMD (Advanced Micro Devices), AMZN (Amazon), ARM, ASPI (ASP Isotopes), ASTS (AST SpaceMobile), AVGO (Broadcom), BA (Boeing), BWXT (BWX Technologies), COIN (Coinbase), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), FLUT (Flutter Entertainment), GDDY (GoDaddy), GEN (Gen Digital), GLW (Corning), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, IREN, KO (Coca-Cola), MARA (MARA Holdings), MCD (McDonald's), META, MRVL (Marvell Technology), MSFT (Microsoft), MSTR (Strategy), MU (Micron Technology), NBIS (Nebius Group), NFLX (Netflix), NKE (Nike), NOK (Nokia), NVDA (NVIDIA), ONDS (Ondas), ORCL (Oracle), PDD (PDD Holdings), PLTR (Palantir), PLUG (Plug Power), QCOM (Qualcomm Incorporated), RKLB (Rocket Lab), SECZ (Securitize Corp), SNDK (Sandisk Corporation), SNOW (Snowflake), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), TSM (TSMC), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
+AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (163 research reports, 35 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAPL (Apple), ADBE (Adobe), AMC (AMC Entertainment), AMD (Advanced Micro Devices), AMZN (Amazon), ARM, ASPI (ASP Isotopes), ASTS (AST SpaceMobile), AVGO (Broadcom), BA (Boeing), BWXT (BWX Technologies), COIN (Coinbase), CRCL (Circle), CRWV (CoreWeave), DKNG (DraftKings), DXYZ (Destiny Tech100), FLUT (Flutter Entertainment), GDDY (GoDaddy), GEN (Gen Digital), GLW (Corning), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HOOD (Robinhood Markets), INTC (Intel), IONQ, IREN, KO (Coca-Cola), MARA (MARA Holdings), MCD (McDonald's), META, MRVL (Marvell Technology), MSFT (Microsoft), MSTR (Strategy), MU (Micron Technology), NBIS (Nebius Group), NFLX (Netflix), NKE (Nike), NOK (Nokia), NVDA (NVIDIA), ONDS (Ondas), ORCL (Oracle), PDD (PDD Holdings), PLTR (Palantir), PLUG (Plug Power), QCOM (Qualcomm Incorporated), RKLB (Rocket Lab), SECZ (Securitize Corp), SNDK (Sandisk Corporation), SNOW (Snowflake), SPCX (SpaceX), TEM (Tempus AI), TSLA (Tesla), TSM (TSMC), UNH (UnitedHealth), ZM (Zoom). Not investment advice.
