@@ -1,9 +1,18 @@
 # 研究报告
 
-共 163 篇，58 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 174 篇，67 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-10-08 | HSBC 汇丰控股 | [股价处月内低点，债市抛售拖累银行股下跌；10月27日公布季报，信用损失或超预期。](HSBC-1246.md) | [Anthropic Claude（Opus-5.5）](HSBC-1246.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](HSBC-1248.md)<br>[Google Spark（Gemini-3.1-Pro）](HSBC-1247.md) |
+| 2026-10-03 | SMCI 超微电脑 | [近日由43美元回落至41美元附近；关注预计11月季报毛利率，增发或摊薄每股价值。](SMCI-1245.md) | [Anthropic Claude（Opus-5.5）](SMCI-1245.md) |
+| 2026-10-03 | NVO 诺和诺德 | [接近月内低点，资本市场日目标令人失望后续跌；关注预计11月三季报，降价或压利润。](NVO-1244.md) | [Anthropic Claude（Opus-5.5）](NVO-1244.md) |
+| 2026-10-03 | FISV Fiserv | [股价贴近月内低点，再创52周新低；预计10月底发三季报，指引或再下调。](FISV-1243.md) | [Anthropic Claude（Opus-5.5）](FISV-1243.md) |
+| 2026-10-03 | INTU 财捷 | [股价处月内低位，近两日反弹；关注预计11月19日一季报，人工智能替代或拖累增长。](INTU-1242.md) | [Anthropic Claude（Opus-5.5）](INTU-1242.md) |
+| 2026-10-03 | TTD The Trade Desk | [股价贴近月内低点，剔出标普500后续跌；预计11月初财报，收入或同比降约12%。](TTD-1241.md) | [Anthropic Claude（Opus-5.5）](TTD-1241.md) |
+| 2026-10-03 | UBER 优步 | [股价接近月内低点，近日续跌；预计11月初发三季报，自动驾驶车队自营或分流订单。](UBER-1240.md) | [Anthropic Claude（Opus-5.5）](UBER-1240.md) |
+| 2026-10-03 | PYPL PayPal | [股价近月内低点，收购传闻带来的涨幅已回吐；10月27日财报，品牌结账或仍疲弱。](PYPL-1239.md) | [Anthropic Claude（Opus-5.5）](PYPL-1239.md) |
+| 2026-10-03 | CRM 赛富时 | [股价处月内中下部，近日先跌后反弹；关注预计10月的回购结算，有机增长偏慢是风险。](CRM-1238.md) | [Anthropic Claude（Opus-5.5）](CRM-1238.md) |
 | 2026-09-30 | DKNG DraftKings | [DKNG估值与同行持平，剩余溢价主因SBC；合理价约$12～23，待11月2027指引验证。](DKNG-1182.md) | [Anthropic Claude（Opus-5.5）](DKNG-1182.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](DKNG-1193.md)<br>[Google Spark（Gemini-3.1-Pro）](DKNG-1183.md) |
 | 2026-09-30 | FLUT Flutter Entertainment | [股价处月内低点，巴西禁令与预测市场压力致近日急跌；11月三季报或再下调指引。](FLUT-1168.md) | [Anthropic Claude（Opus-5.5）](FLUT-1168.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](FLUT-1186.md)<br>[Google Spark（Gemini-3.1-Pro）](FLUT-1172.md) |
 | 2026-09-30 | MRVL 迈威尔科技 | [接近月内高点，近日随芯片股震荡；10月6日投资者日，长期目标若不及预期或回落。](MRVL-1176.md) | [Anthropic Claude（Opus-5.5）](MRVL-1176.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](MRVL-1178.md)<br>[Google Spark（Gemini-3.1-Pro）](MRVL-1177.md) |

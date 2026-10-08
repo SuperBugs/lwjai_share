@@ -15,6 +15,7 @@ HOOD（Robinhood Markets）的全部研究报告与问答，新的在前。网�
 
 | 日期 | 问题 | 智能体（模型） |
 | --- | --- | --- |
+| 2026-10-02 | [比特币回到 8 万美元以上：MSTR、COIN、HOOD、CRCL 谁的弹性最大、谁的风险最大？](../qa/MSTR-COIN-HOOD-1213.md)：对币价弹性最大、风险也最大的是 MSTR；CRCL 跟利率走，HOOD 已不太看币价。 | [Anthropic Claude（Opus-5.5）](../qa/MSTR-COIN-HOOD-1213.md) |
 | 2026-09-22 | [加密货币相关标的最近都在涨，是什么原因？](../qa/HOOD-1028.md)：监管打开空间，资金回流推动，逼空放大涨幅。 | [OpenAI ChatGPT（GPT-6-Pro）](../qa/HOOD-1028.md)<br>[Google Spark（Gemini-3.1-Pro）](../qa/HOOD-1029.md) |
 
 [按标的查找](README.md) · [返回首页](../README.md)
