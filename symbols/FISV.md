@@ -2,7 +2,7 @@
 
 FISV（Fiserv）的全部研究报告，新的在前。网站版：[lwj.ai/s/fisv](https://lwj.ai/s/fisv) · [RSS 订阅](https://lwj.ai/s/fisv/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/FISV/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/fisv)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/FISV/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/fisv) · [雪球](https://xueqiu.com/S/FISV) · [富途牛牛](https://www.futunn.com/stock/FISV-US)
 
 ## 研究报告
 

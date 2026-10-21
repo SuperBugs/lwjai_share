@@ -2,7 +2,7 @@
 
 BA（波音 · Boeing）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/ba](https://lwj.ai/s/ba) · [RSS 订阅](https://lwj.ai/s/ba/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ba)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ba) · [雪球](https://xueqiu.com/S/BA) · [富途牛牛](https://www.futunn.com/stock/BA-US)
 
 ## 研究报告
 

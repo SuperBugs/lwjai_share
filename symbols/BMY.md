@@ -2,7 +2,7 @@
 
 BMY（百时美施贵宝 · Bristol Myers Squibb）的全部问答，新的在前。网站版：[lwj.ai/s/bmy](https://lwj.ai/s/bmy) · [RSS 订阅](https://lwj.ai/s/bmy/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BMY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BMY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/bmy)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BMY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BMY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/bmy) · [雪球](https://xueqiu.com/S/BMY) · [富途牛牛](https://www.futunn.com/stock/BMY-US)
 
 ## 问答
 

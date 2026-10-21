@@ -2,7 +2,7 @@
 
 ARM 的全部研究报告，新的在前。网站版：[lwj.ai/s/arm](https://lwj.ai/s/arm) · [RSS 订阅](https://lwj.ai/s/arm/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ARM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/arm)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ARM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/arm) · [雪球](https://xueqiu.com/S/ARM) · [富途牛牛](https://www.futunn.com/stock/ARM-US)
 
 ## 研究报告
 

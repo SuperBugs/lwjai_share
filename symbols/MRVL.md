@@ -2,7 +2,7 @@
 
 MRVL（迈威尔科技 · Marvell Technology）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/mrvl](https://lwj.ai/s/mrvl) · [RSS 订阅](https://lwj.ai/s/mrvl/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRVL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MRVL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mrvl)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRVL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MRVL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mrvl) · [雪球](https://xueqiu.com/S/MRVL) · [富途牛牛](https://www.futunn.com/stock/MRVL-US)
 
 ## 研究报告
 

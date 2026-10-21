@@ -2,7 +2,7 @@
 
 SECZ（Securitize Corp）的全部研究报告，新的在前。网站版：[lwj.ai/s/secz](https://lwj.ai/s/secz) · [RSS 订阅](https://lwj.ai/s/secz/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SECZ&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SECZ/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/secz)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SECZ&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SECZ/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/secz) · [雪球](https://xueqiu.com/S/SECZ) · [富途牛牛](https://www.futunn.com/stock/SECZ-US)
 
 ## 研究报告
 

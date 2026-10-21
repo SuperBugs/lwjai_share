@@ -2,7 +2,7 @@
 
 NRG（NRG Energy）的全部问答，新的在前。网站版：[lwj.ai/s/nrg](https://lwj.ai/s/nrg) · [RSS 订阅](https://lwj.ai/s/nrg/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NRG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NRG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nrg)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NRG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NRG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nrg) · [雪球](https://xueqiu.com/S/NRG) · [富途牛牛](https://www.futunn.com/stock/NRG-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 SMCI（超微电脑 · Super Micro Computer）的全部研究报告，新的在前。网站版：[lwj.ai/s/smci](https://lwj.ai/s/smci) · [RSS 订阅](https://lwj.ai/s/smci/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SMCI&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SMCI/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/smci)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SMCI&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SMCI/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/smci) · [雪球](https://xueqiu.com/S/SMCI) · [富途牛牛](https://www.futunn.com/stock/SMCI-US)
 
 ## 研究报告
 

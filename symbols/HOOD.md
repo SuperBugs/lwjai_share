@@ -2,7 +2,7 @@
 
 HOOD（Robinhood Markets）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/hood](https://lwj.ai/s/hood) · [RSS 订阅](https://lwj.ai/s/hood/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOOD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/HOOD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/hood)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOOD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/HOOD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/hood) · [雪球](https://xueqiu.com/S/HOOD) · [富途牛牛](https://www.futunn.com/stock/HOOD-US)
 
 ## 研究报告
 

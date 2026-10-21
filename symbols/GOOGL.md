@@ -2,7 +2,7 @@
 
 GOOGL（谷歌-A · Alphabet (Class A)）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/googl](https://lwj.ai/s/googl) · [RSS 订阅](https://lwj.ai/s/googl/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GOOGL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/googl)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GOOGL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/googl) · [雪球](https://xueqiu.com/S/GOOGL) · [富途牛牛](https://www.futunn.com/stock/GOOGL-US)
 
 ## 研究报告
 

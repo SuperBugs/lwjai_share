@@ -2,7 +2,7 @@
 
 EFX（艾可飞 · Equifax）的全部问答，新的在前。网站版：[lwj.ai/s/efx](https://lwj.ai/s/efx) · [RSS 订阅](https://lwj.ai/s/efx/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EFX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/EFX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/efx)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EFX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/EFX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/efx) · [雪球](https://xueqiu.com/S/EFX) · [富途牛牛](https://www.futunn.com/stock/EFX-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 AVGO（博通 · Broadcom）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/avgo](https://lwj.ai/s/avgo) · [RSS 订阅](https://lwj.ai/s/avgo/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AVGO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/avgo)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AVGO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/avgo) · [雪球](https://xueqiu.com/S/AVGO) · [富途牛牛](https://www.futunn.com/stock/AVGO-US)
 
 ## 研究报告
 

@@ -2,7 +2,7 @@
 
 UAL（联合航空 · United Airlines）的全部问答，新的在前。网站版：[lwj.ai/s/ual](https://lwj.ai/s/ual) · [RSS 订阅](https://lwj.ai/s/ual/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UAL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/UAL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ual)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UAL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/UAL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ual) · [雪球](https://xueqiu.com/S/UAL) · [富途牛牛](https://www.futunn.com/stock/UAL-US)
 
 ## 问答
 

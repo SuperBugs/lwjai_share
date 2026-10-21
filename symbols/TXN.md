@@ -2,7 +2,7 @@
 
 TXN（德州仪器 · Texas Instruments）的全部问答，新的在前。网站版：[lwj.ai/s/txn](https://lwj.ai/s/txn) · [RSS 订阅](https://lwj.ai/s/txn/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TXN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/txn)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TXN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/txn) · [雪球](https://xueqiu.com/S/TXN) · [富途牛牛](https://www.futunn.com/stock/TXN-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 CEG（星座能源 · Constellation Energy）的全部问答，新的在前。网站版：[lwj.ai/s/ceg](https://lwj.ai/s/ceg) · [RSS 订阅](https://lwj.ai/s/ceg/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CEG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CEG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ceg)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CEG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CEG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ceg) · [雪球](https://xueqiu.com/S/CEG) · [富途牛牛](https://www.futunn.com/stock/CEG-US)
 
 ## 问答
 

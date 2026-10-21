@@ -2,7 +2,7 @@
 
 GLD（SPDR 黄金 ETF · SPDR Gold Shares）的全部问答，新的在前。网站版：[lwj.ai/s/gld](https://lwj.ai/s/gld) · [RSS 订阅](https://lwj.ai/s/gld/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GLD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/gld)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GLD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/gld) · [雪球](https://xueqiu.com/S/GLD) · [富途牛牛](https://www.futunn.com/stock/GLD-US)
 
 ## 问答
 

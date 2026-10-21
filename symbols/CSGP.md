@@ -2,7 +2,7 @@
 
 CSGP（CoStar Group）的全部问答，新的在前。网站版：[lwj.ai/s/csgp](https://lwj.ai/s/csgp) · [RSS 订阅](https://lwj.ai/s/csgp/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSGP&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CSGP/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/csgp)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSGP&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CSGP/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/csgp) · [雪球](https://xueqiu.com/S/CSGP) · [富途牛牛](https://www.futunn.com/stock/CSGP-US)
 
 ## 问答
 

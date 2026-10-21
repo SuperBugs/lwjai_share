@@ -2,7 +2,7 @@
 
 AMC（AMC院线 · AMC Entertainment）的全部研究报告，新的在前。网站版：[lwj.ai/s/amc](https://lwj.ai/s/amc) · [RSS 订阅](https://lwj.ai/s/amc/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AMC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/amc)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AMC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/amc) · [雪球](https://xueqiu.com/S/AMC) · [富途牛牛](https://www.futunn.com/stock/AMC-US)
 
 ## 研究报告
 

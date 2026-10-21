@@ -2,7 +2,7 @@
 
 ANET（Arista Networks）的全部问答，新的在前。网站版：[lwj.ai/s/anet](https://lwj.ai/s/anet) · [RSS 订阅](https://lwj.ai/s/anet/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANET&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ANET/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/anet)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANET&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ANET/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/anet) · [雪球](https://xueqiu.com/S/ANET) · [富途牛牛](https://www.futunn.com/stock/ANET-US)
 
 ## 问答
 

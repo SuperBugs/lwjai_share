@@ -2,7 +2,7 @@
 
 AMAT（应用材料 · Applied Materials）的全部问答，新的在前。网站版：[lwj.ai/s/amat](https://lwj.ai/s/amat) · [RSS 订阅](https://lwj.ai/s/amat/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AMAT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/amat)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AMAT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/amat) · [雪球](https://xueqiu.com/S/AMAT) · [富途牛牛](https://www.futunn.com/stock/AMAT-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 IBM（国际商业机器）的全部问答，新的在前。网站版：[lwj.ai/s/ibm](https://lwj.ai/s/ibm) · [RSS 订阅](https://lwj.ai/s/ibm/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/IBM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ibm)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/IBM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ibm) · [雪球](https://xueqiu.com/S/IBM) · [富途牛牛](https://www.futunn.com/stock/IBM-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 MSFT（微软 · Microsoft）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/msft](https://lwj.ai/s/msft) · [RSS 订阅](https://lwj.ai/s/msft/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MSFT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/msft)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MSFT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/msft) · [雪球](https://xueqiu.com/S/MSFT) · [富途牛牛](https://www.futunn.com/stock/MSFT-US)
 
 ## 研究报告
 

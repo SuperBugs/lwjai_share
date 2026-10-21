@@ -2,7 +2,7 @@
 
 INTC（英特尔 · Intel）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/intc](https://lwj.ai/s/intc) · [RSS 订阅](https://lwj.ai/s/intc/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/INTC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/intc)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/INTC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/intc) · [雪球](https://xueqiu.com/S/INTC) · [富途牛牛](https://www.futunn.com/stock/INTC-US)
 
 ## 研究报告
 

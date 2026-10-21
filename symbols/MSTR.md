@@ -2,7 +2,7 @@
 
 MSTR（微策略 · Strategy）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/mstr](https://lwj.ai/s/mstr) · [RSS 订阅](https://lwj.ai/s/mstr/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSTR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MSTR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mstr)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSTR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MSTR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mstr) · [雪球](https://xueqiu.com/S/MSTR) · [富途牛牛](https://www.futunn.com/stock/MSTR-US)
 
 ## 研究报告
 

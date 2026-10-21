@@ -2,7 +2,7 @@
 
 INFY（印孚瑟斯 · Infosys）的全部问答，新的在前。网站版：[lwj.ai/s/infy](https://lwj.ai/s/infy) · [RSS 订阅](https://lwj.ai/s/infy/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INFY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/INFY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/infy)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INFY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/INFY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/infy) · [雪球](https://xueqiu.com/S/INFY) · [富途牛牛](https://www.futunn.com/stock/INFY-US)
 
 ## 问答
 

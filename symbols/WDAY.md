@@ -2,7 +2,7 @@
 
 WDAY（Workday）的全部问答，新的在前。网站版：[lwj.ai/s/wday](https://lwj.ai/s/wday) · [RSS 订阅](https://lwj.ai/s/wday/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDAY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/WDAY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/wday)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDAY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/WDAY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/wday) · [雪球](https://xueqiu.com/S/WDAY) · [富途牛牛](https://www.futunn.com/stock/WDAY-US)
 
 ## 问答
 

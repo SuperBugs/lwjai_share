@@ -2,7 +2,7 @@
 
 TLN（Talen Energy）的全部问答，新的在前。网站版：[lwj.ai/s/tln](https://lwj.ai/s/tln) · [RSS 订阅](https://lwj.ai/s/tln/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TLN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TLN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tln)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TLN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TLN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tln) · [雪球](https://xueqiu.com/S/TLN) · [富途牛牛](https://www.futunn.com/stock/TLN-US)
 
 ## 问答
 

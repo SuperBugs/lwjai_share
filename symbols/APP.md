@@ -2,7 +2,7 @@
 
 APP（AppLovin）的全部问答，新的在前。网站版：[lwj.ai/s/app](https://lwj.ai/s/app) · [RSS 订阅](https://lwj.ai/s/app/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APP&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/APP/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/app)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APP&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/APP/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/app) · [雪球](https://xueqiu.com/S/APP) · [富途牛牛](https://www.futunn.com/stock/APP-US)
 
 ## 问答
 

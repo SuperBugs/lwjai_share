@@ -2,7 +2,7 @@
 
 ASPI（ASP Isotopes）的全部研究报告，新的在前。网站版：[lwj.ai/s/aspi](https://lwj.ai/s/aspi) · [RSS 订阅](https://lwj.ai/s/aspi/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ASPI&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ASPI/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aspi)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ASPI&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ASPI/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aspi) · [雪球](https://xueqiu.com/S/ASPI) · [富途牛牛](https://www.futunn.com/stock/ASPI-US)
 
 ## 研究报告
 

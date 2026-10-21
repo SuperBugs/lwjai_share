@@ -2,7 +2,7 @@
 
 ASTS（AST SpaceMobile）的全部研究报告，新的在前。网站版：[lwj.ai/s/asts](https://lwj.ai/s/asts) · [RSS 订阅](https://lwj.ai/s/asts/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ASTS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ASTS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/asts)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ASTS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ASTS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/asts) · [雪球](https://xueqiu.com/S/ASTS) · [富途牛牛](https://www.futunn.com/stock/ASTS-US)
 
 ## 研究报告
 

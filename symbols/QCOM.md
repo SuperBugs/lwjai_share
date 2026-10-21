@@ -2,7 +2,7 @@
 
 QCOM（高通 · Qualcomm Incorporated）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/qcom](https://lwj.ai/s/qcom) · [RSS 订阅](https://lwj.ai/s/qcom/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/QCOM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/qcom)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/QCOM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/qcom) · [雪球](https://xueqiu.com/S/QCOM) · [富途牛牛](https://www.futunn.com/stock/QCOM-US)
 
 ## 研究报告
 

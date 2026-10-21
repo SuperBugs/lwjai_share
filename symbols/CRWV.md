@@ -2,7 +2,7 @@
 
 CRWV（CoreWeave）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/crwv](https://lwj.ai/s/crwv) · [RSS 订阅](https://lwj.ai/s/crwv/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRWV&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CRWV/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/crwv)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRWV&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CRWV/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/crwv) · [雪球](https://xueqiu.com/S/CRWV) · [富途牛牛](https://www.futunn.com/stock/CRWV-US)
 
 ## 研究报告
 

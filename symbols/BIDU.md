@@ -2,7 +2,7 @@
 
 BIDU（百度 · Baidu）的全部问答，新的在前。网站版：[lwj.ai/s/bidu](https://lwj.ai/s/bidu) · [RSS 订阅](https://lwj.ai/s/bidu/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BIDU&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BIDU/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/bidu)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BIDU&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BIDU/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/bidu) · [雪球](https://xueqiu.com/S/BIDU) · [富途牛牛](https://www.futunn.com/stock/BIDU-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 LRCX（泛林集团 · Lam Research）的全部问答，新的在前。网站版：[lwj.ai/s/lrcx](https://lwj.ai/s/lrcx) · [RSS 订阅](https://lwj.ai/s/lrcx/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/LRCX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/lrcx)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/LRCX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/lrcx) · [雪球](https://xueqiu.com/S/LRCX) · [富途牛牛](https://www.futunn.com/stock/LRCX-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 TSLA（特斯拉 · Tesla）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/tsla](https://lwj.ai/s/tsla) · [RSS 订阅](https://lwj.ai/s/tsla/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSLA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tsla)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSLA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tsla) · [雪球](https://xueqiu.com/S/TSLA) · [富途牛牛](https://www.futunn.com/stock/TSLA-US)
 
 ## 研究报告
 

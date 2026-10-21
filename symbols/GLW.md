@@ -2,7 +2,7 @@
 
 GLW（康宁 · Corning）的全部研究报告，新的在前。网站版：[lwj.ai/s/glw](https://lwj.ai/s/glw) · [RSS 订阅](https://lwj.ai/s/glw/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLW&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GLW/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/glw)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLW&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GLW/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/glw) · [雪球](https://xueqiu.com/S/GLW) · [富途牛牛](https://www.futunn.com/stock/GLW-US)
 
 ## 研究报告
 

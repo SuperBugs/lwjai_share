@@ -2,7 +2,7 @@
 
 ORCL（甲骨文 · Oracle）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/orcl](https://lwj.ai/s/orcl) · [RSS 订阅](https://lwj.ai/s/orcl/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ORCL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/orcl)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ORCL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/orcl) · [雪球](https://xueqiu.com/S/ORCL) · [富途牛牛](https://www.futunn.com/stock/ORCL-US)
 
 ## 研究报告
 

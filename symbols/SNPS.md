@@ -2,7 +2,7 @@
 
 SNPS（新思科技 · Synopsys）的全部问答，新的在前。网站版：[lwj.ai/s/snps](https://lwj.ai/s/snps) · [RSS 订阅](https://lwj.ai/s/snps/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNPS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SNPS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/snps)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNPS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SNPS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/snps) · [雪球](https://xueqiu.com/S/SNPS) · [富途牛牛](https://www.futunn.com/stock/SNPS-US)
 
 ## 问答
 

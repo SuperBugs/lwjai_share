@@ -2,7 +2,7 @@
 
 GEN（Gen Digital）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/gen](https://lwj.ai/s/gen) · [RSS 订阅](https://lwj.ai/s/gen/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GEN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GEN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/gen)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GEN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GEN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/gen) · [雪球](https://xueqiu.com/S/GEN) · [富途牛牛](https://www.futunn.com/stock/GEN-US)
 
 ## 研究报告
 

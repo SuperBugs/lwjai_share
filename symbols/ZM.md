@@ -2,7 +2,7 @@
 
 ZM（Zoom）的全部研究报告，新的在前。网站版：[lwj.ai/s/zm](https://lwj.ai/s/zm) · [RSS 订阅](https://lwj.ai/s/zm/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ZM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/zm)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ZM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/zm) · [雪球](https://xueqiu.com/S/ZM) · [富途牛牛](https://www.futunn.com/stock/ZM-US)
 
 ## 研究报告
 

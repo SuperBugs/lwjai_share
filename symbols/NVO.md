@@ -2,7 +2,7 @@
 
 NVO（诺和诺德 · Novo Nordisk）的全部研究报告，新的在前。网站版：[lwj.ai/s/nvo](https://lwj.ai/s/nvo) · [RSS 订阅](https://lwj.ai/s/nvo/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NVO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nvo)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NVO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nvo) · [雪球](https://xueqiu.com/S/NVO) · [富途牛牛](https://www.futunn.com/stock/NVO-US)
 
 ## 研究报告
 

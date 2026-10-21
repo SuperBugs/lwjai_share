@@ -2,7 +2,7 @@
 
 LEN（莱纳建筑 · Lennar）的全部问答，新的在前。网站版：[lwj.ai/s/len](https://lwj.ai/s/len) · [RSS 订阅](https://lwj.ai/s/len/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/LEN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/len)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/LEN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/len) · [雪球](https://xueqiu.com/S/LEN) · [富途牛牛](https://www.futunn.com/stock/LEN-US)
 
 ## 问答
 

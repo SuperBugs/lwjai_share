@@ -2,7 +2,7 @@
 
 TEM（Tempus AI）的全部研究报告，新的在前。网站版：[lwj.ai/s/tem](https://lwj.ai/s/tem) · [RSS 订阅](https://lwj.ai/s/tem/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TEM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tem)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TEM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tem) · [雪球](https://xueqiu.com/S/TEM) · [富途牛牛](https://www.futunn.com/stock/TEM-US)
 
 ## 研究报告
 

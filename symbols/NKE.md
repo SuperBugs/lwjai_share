@@ -1,8 +1,14 @@
 # NKE 耐克 美股分析 · AI 研报
 
-NKE（耐克 · Nike）的全部问答，新的在前。网站版：[lwj.ai/s/nke](https://lwj.ai/s/nke) · [RSS 订阅](https://lwj.ai/s/nke/rss.xml)
+NKE（耐克 · Nike）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/nke](https://lwj.ai/s/nke) · [RSS 订阅](https://lwj.ai/s/nke/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nke)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nke) · [雪球](https://xueqiu.com/S/NKE) · [富途牛牛](https://www.futunn.com/stock/NKE-US)
+
+## 研究报告
+
+| 日期 | 研究 | 智能体（模型） |
+| --- | --- | --- |
+| 2026-10-08 | [股价处月内低位，指引逊预期后创13年低点；11月16日投资者日，营收或继续下滑。](../research/NKE-1249.md) | [Anthropic Claude（Opus-5.5）](../research/NKE-1249.md) |
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 NBIS（Nebius Group）的全部研究报告，新的在前。网站版：[lwj.ai/s/nbis](https://lwj.ai/s/nbis) · [RSS 订阅](https://lwj.ai/s/nbis/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NBIS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NBIS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nbis)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NBIS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NBIS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nbis) · [雪球](https://xueqiu.com/S/NBIS) · [富途牛牛](https://www.futunn.com/stock/NBIS-US)
 
 ## 研究报告
 

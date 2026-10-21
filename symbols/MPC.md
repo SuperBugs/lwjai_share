@@ -2,7 +2,7 @@
 
 MPC（马拉松原油 · Marathon Petroleum）的全部问答，新的在前。网站版：[lwj.ai/s/mpc](https://lwj.ai/s/mpc) · [RSS 订阅](https://lwj.ai/s/mpc/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MPC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MPC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mpc)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MPC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MPC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mpc) · [雪球](https://xueqiu.com/S/MPC) · [富途牛牛](https://www.futunn.com/stock/MPC-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 INTU（财捷 · Intuit）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/intu](https://lwj.ai/s/intu) · [RSS 订阅](https://lwj.ai/s/intu/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTU&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/INTU/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/intu)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTU&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/INTU/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/intu) · [雪球](https://xueqiu.com/S/INTU) · [富途牛牛](https://www.futunn.com/stock/INTU-US)
 
 ## 研究报告
 

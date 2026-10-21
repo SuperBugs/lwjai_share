@@ -63,7 +63,7 @@
 | [INTC](INTC.md) | 英特尔（Intel） | 3 | 1 |
 | [INTU](INTU.md) | 财捷（Intuit） | 1 | 2 |
 | [IONQ](IONQ.md) | IonQ | 3 | 0 |
-| [IREN](IREN.md) | IREN | 3 | 0 |
+| [IREN](IREN.md) | IREN | 6 | 0 |
 | [IT](IT.md) | 高德纳（Gartner） | 0 | 1 |
 | [JCI](JCI.md) | 江森自控（Johnson Controls） | 0 | 1 |
 | [JD](JD.md) | 京东（JD.com） | 0 | 1 |
@@ -84,7 +84,7 @@
 | [NBIS](NBIS.md) | Nebius Group | 3 | 0 |
 | [NEM](NEM.md) | 纽蒙特（Newmont） | 0 | 1 |
 | [NFLX](NFLX.md) | 奈飞（Netflix） | 3 | 0 |
-| [NKE](NKE.md) | 耐克（Nike） | 0 | 8 |
+| [NKE](NKE.md) | 耐克（Nike） | 1 | 8 |
 | [NOK](NOK.md) | 诺基亚（Nokia） | 2 | 0 |
 | [NOW](NOW.md) | ServiceNow | 0 | 1 |
 | [NRG](NRG.md) | NRG Energy | 0 | 1 |

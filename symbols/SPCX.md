@@ -2,7 +2,7 @@
 
 SPCX（SpaceX）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/spcx](https://lwj.ai/s/spcx) · [RSS 订阅](https://lwj.ai/s/spcx/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPCX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SPCX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/spcx)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPCX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SPCX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/spcx) · [雪球](https://xueqiu.com/S/SPCX) · [富途牛牛](https://www.futunn.com/stock/SPCX-US)
 
 ## 研究报告
 

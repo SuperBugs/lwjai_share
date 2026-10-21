@@ -2,7 +2,7 @@
 
 XOM（埃克森美孚 · ExxonMobil）的全部问答，新的在前。网站版：[lwj.ai/s/xom](https://lwj.ai/s/xom) · [RSS 订阅](https://lwj.ai/s/xom/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XOM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/XOM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/xom)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XOM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/XOM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/xom) · [雪球](https://xueqiu.com/S/XOM) · [富途牛牛](https://www.futunn.com/stock/XOM-US)
 
 ## 问答
 

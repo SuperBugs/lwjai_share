@@ -2,7 +2,7 @@
 
 SYNA（新思国际 · Synaptics）的全部问答，新的在前。网站版：[lwj.ai/s/syna](https://lwj.ai/s/syna) · [RSS 订阅](https://lwj.ai/s/syna/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYNA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SYNA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/syna)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYNA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SYNA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/syna) · [雪球](https://xueqiu.com/S/SYNA) · [富途牛牛](https://www.futunn.com/stock/SYNA-US)
 
 ## 问答
 

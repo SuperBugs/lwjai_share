@@ -2,7 +2,7 @@
 
 BWXT（BWX Technologies）的全部研究报告，新的在前。网站版：[lwj.ai/s/bwxt](https://lwj.ai/s/bwxt) · [RSS 订阅](https://lwj.ai/s/bwxt/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BWXT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BWXT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/bwxt)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BWXT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BWXT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/bwxt) · [雪球](https://xueqiu.com/S/BWXT) · [富途牛牛](https://www.futunn.com/stock/BWXT-US)
 
 ## 研究报告
 

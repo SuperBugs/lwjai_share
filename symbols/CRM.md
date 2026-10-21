@@ -2,7 +2,7 @@
 
 CRM（赛富时 · Salesforce）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/crm](https://lwj.ai/s/crm) · [RSS 订阅](https://lwj.ai/s/crm/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CRM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/crm)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CRM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/crm) · [雪球](https://xueqiu.com/S/CRM) · [富途牛牛](https://www.futunn.com/stock/CRM-US)
 
 ## 研究报告
 

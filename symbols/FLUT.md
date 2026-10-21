@@ -2,7 +2,7 @@
 
 FLUT（Flutter Entertainment）的全部研究报告，新的在前。网站版：[lwj.ai/s/flut](https://lwj.ai/s/flut) · [RSS 订阅](https://lwj.ai/s/flut/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLUT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/FLUT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/flut)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLUT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/FLUT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/flut) · [雪球](https://xueqiu.com/S/FLUT) · [富途牛牛](https://www.futunn.com/stock/FLUT-US)
 
 ## 研究报告
 

@@ -2,7 +2,7 @@
 
 ZBH（捷迈邦美 · Zimmer Biomet）的全部问答，新的在前。网站版：[lwj.ai/s/zbh](https://lwj.ai/s/zbh) · [RSS 订阅](https://lwj.ai/s/zbh/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ZBH/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/zbh)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ZBH/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/zbh) · [雪球](https://xueqiu.com/S/ZBH) · [富途牛牛](https://www.futunn.com/stock/ZBH-US)
 
 ## 问答
 

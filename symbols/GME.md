@@ -2,7 +2,7 @@
 
 GME（游戏驿站 · GameStop）的全部问答，新的在前。网站版：[lwj.ai/s/gme](https://lwj.ai/s/gme) · [RSS 订阅](https://lwj.ai/s/gme/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GME&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GME/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/gme)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GME&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GME/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/gme) · [雪球](https://xueqiu.com/S/GME) · [富途牛牛](https://www.futunn.com/stock/GME-US)
 
 ## 问答
 

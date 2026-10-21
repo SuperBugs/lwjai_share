@@ -2,7 +2,7 @@
 
 HSBC（汇丰控股 · HSBC Holdings）的全部研究报告，新的在前。网站版：[lwj.ai/s/hsbc](https://lwj.ai/s/hsbc) · [RSS 订阅](https://lwj.ai/s/hsbc/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSBC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/HSBC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/hsbc)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSBC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/HSBC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/hsbc) · [雪球](https://xueqiu.com/S/HSBC) · [富途牛牛](https://www.futunn.com/stock/HSBC-US)
 
 ## 研究报告
 

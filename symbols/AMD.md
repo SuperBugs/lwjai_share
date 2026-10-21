@@ -2,7 +2,7 @@
 
 AMD（超威半导体 · Advanced Micro Devices）的全部研究报告，新的在前。网站版：[lwj.ai/s/amd](https://lwj.ai/s/amd) · [RSS 订阅](https://lwj.ai/s/amd/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AMD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/amd)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AMD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/amd) · [雪球](https://xueqiu.com/S/AMD) · [富途牛牛](https://www.futunn.com/stock/AMD-US)
 
 ## 研究报告
 

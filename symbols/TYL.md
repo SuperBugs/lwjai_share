@@ -2,7 +2,7 @@
 
 TYL（Tyler Technologies）的全部问答，新的在前。网站版：[lwj.ai/s/tyl](https://lwj.ai/s/tyl) · [RSS 订阅](https://lwj.ai/s/tyl/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TYL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TYL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tyl)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TYL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TYL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tyl) · [雪球](https://xueqiu.com/S/TYL) · [富途牛牛](https://www.futunn.com/stock/TYL-US)
 
 ## 问答
 

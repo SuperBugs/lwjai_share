@@ -4,8 +4,8 @@
 
 [研究报告](research/README.md) · [问答](qa/README.md) · [教程](guides/README.md) · [提示词](prompts/README.md) · [按标的查找](symbols/README.md) · [微信交流群](#微信交流群) · [网站](https://lwj.ai/)
 
-- 收录研究报告 174 篇、问答 71 条、教程 1 篇、提示词 2 份，覆盖 133 只美股标的。
-- 最近更新：2026-10-08（北京时间）
+- 收录研究报告 178 篇、问答 71 条、教程 1 篇、提示词 2 份，覆盖 133 只美股标的。
+- 最近更新：2026-10-21（北京时间）
 - 同一选题由多个 AI 智能体分别研究，列在同一行，便于对照。
 - 正文与网站原文一致；网站版另有目录、同题切换与全文搜索。
 - 网站简介：美股分析与 AI 研报：用 AI 分析美股标的，涵盖个股研究、财报解读、估值分析与美股问答。网站无任何收费内容，以后也不会有任何收费。
@@ -73,7 +73,7 @@
 | [INTC](symbols/INTC.md) | 英特尔（Intel） | 3 | 1 |
 | [INTU](symbols/INTU.md) | 财捷（Intuit） | 1 | 2 |
 | [IONQ](symbols/IONQ.md) | IonQ | 3 | 0 |
-| [IREN](symbols/IREN.md) | IREN | 3 | 0 |
+| [IREN](symbols/IREN.md) | IREN | 6 | 0 |
 | [IT](symbols/IT.md) | 高德纳（Gartner） | 0 | 1 |
 | [JCI](symbols/JCI.md) | 江森自控（Johnson Controls） | 0 | 1 |
 | [JD](symbols/JD.md) | 京东（JD.com） | 0 | 1 |
@@ -94,7 +94,7 @@
 | [NBIS](symbols/NBIS.md) | Nebius Group | 3 | 0 |
 | [NEM](symbols/NEM.md) | 纽蒙特（Newmont） | 0 | 1 |
 | [NFLX](symbols/NFLX.md) | 奈飞（Netflix） | 3 | 0 |
-| [NKE](symbols/NKE.md) | 耐克（Nike） | 0 | 8 |
+| [NKE](symbols/NKE.md) | 耐克（Nike） | 1 | 8 |
 | [NOK](symbols/NOK.md) | 诺基亚（Nokia） | 2 | 0 |
 | [NOW](symbols/NOW.md) | ServiceNow | 0 | 1 |
 | [NRG](symbols/NRG.md) | NRG Energy | 0 | 1 |
@@ -152,6 +152,8 @@
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-10-21 | IREN | [股价贴近月内低点，融资担忧致近日大跌；预计11月初发季报，扩产融资或摊薄股东。](research/IREN-1252.md) | [Anthropic Claude（Opus-5.5）](research/IREN-1252.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/IREN-1250.md)<br>[Google Spark（Gemini-4-Argon）](research/IREN-1251.md) |
+| 2026-10-08 | NKE 耐克 | [股价处月内低位，指引逊预期后创13年低点；11月16日投资者日，营收或继续下滑。](research/NKE-1249.md) | [Anthropic Claude（Opus-5.5）](research/NKE-1249.md) |
 | 2026-10-08 | HSBC 汇丰控股 | [股价处月内低点，债市抛售拖累银行股下跌；10月27日公布季报，信用损失或超预期。](research/HSBC-1246.md) | [Anthropic Claude（Opus-5.5）](research/HSBC-1246.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/HSBC-1248.md)<br>[Google Spark（Gemini-3.1-Pro）](research/HSBC-1247.md) |
 | 2026-10-03 | SMCI 超微电脑 | [近日由43美元回落至41美元附近；关注预计11月季报毛利率，增发或摊薄每股价值。](research/SMCI-1245.md) | [Anthropic Claude（Opus-5.5）](research/SMCI-1245.md) |
 | 2026-10-03 | NVO 诺和诺德 | [接近月内低点，资本市场日目标令人失望后续跌；关注预计11月三季报，降价或压利润。](research/NVO-1244.md) | [Anthropic Claude（Opus-5.5）](research/NVO-1244.md) |
@@ -162,10 +164,8 @@
 | 2026-10-03 | PYPL PayPal | [股价近月内低点，收购传闻带来的涨幅已回吐；10月27日财报，品牌结账或仍疲弱。](research/PYPL-1239.md) | [Anthropic Claude（Opus-5.5）](research/PYPL-1239.md) |
 | 2026-10-03 | CRM 赛富时 | [股价处月内中下部，近日先跌后反弹；关注预计10月的回购结算，有机增长偏慢是风险。](research/CRM-1238.md) | [Anthropic Claude（Opus-5.5）](research/CRM-1238.md) |
 | 2026-09-30 | DKNG DraftKings | [DKNG估值与同行持平，剩余溢价主因SBC；合理价约$12～23，待11月2027指引验证。](research/DKNG-1182.md) | [Anthropic Claude（Opus-5.5）](research/DKNG-1182.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/DKNG-1193.md)<br>[Google Spark（Gemini-3.1-Pro）](research/DKNG-1183.md) |
-| 2026-09-30 | FLUT Flutter Entertainment | [股价处月内低点，巴西禁令与预测市场压力致近日急跌；11月三季报或再下调指引。](research/FLUT-1168.md) | [Anthropic Claude（Opus-5.5）](research/FLUT-1168.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/FLUT-1186.md)<br>[Google Spark（Gemini-3.1-Pro）](research/FLUT-1172.md) |
-| 2026-09-30 | MRVL 迈威尔科技 | [接近月内高点，近日随芯片股震荡；10月6日投资者日，长期目标若不及预期或回落。](research/MRVL-1176.md) | [Anthropic Claude（Opus-5.5）](research/MRVL-1176.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](research/MRVL-1178.md)<br>[Google Spark（Gemini-3.1-Pro）](research/MRVL-1177.md) |
 
-[全部 174 篇研究报告](research/README.md)
+[全部 178 篇研究报告](research/README.md)
 
 ## 最新问答
 
@@ -197,9 +197,7 @@
 
 ## 微信交流群
 
-<img src="https://lwj.ai/wechat-qr.png" width="200" alt="微信交流群二维码">
-
-用微信扫码加入交流群。二维码定期更新；如已失效，请访问 [lwj.ai/a](https://lwj.ai/a#wechat-group) 获取最新二维码。
+群二维码已在10月9日过期，站长更新后这里会换成新的。着急的话可以先通过页面底部的联系方式联系站长。最新入口：[lwj.ai/a](https://lwj.ai/a#wechat-group)。
 
 ## 联系方式
 
@@ -223,8 +221,8 @@
 
 标签：深度研究 · 估值计算 · 宏观 · 行业 · 财报
 
-智能体与模型：Anthropic Claude（Opus-5.5） · OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
+智能体与模型：Anthropic Claude（Opus-5.5） · OpenAI ChatGPT（GPT-6-Pro） · Google Spark（Gemini-4-Argon） · Google Spark（Gemini-3.1-Pro） · Anthropic Claude（Fable-5.1） · Google Spark（Gemini-3-Pro）
 
 ## English
 
-AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (174 research reports, 71 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAL (American Airlines), AAPL (Apple), ACN (Accenture), ADBE (Adobe), AMAT (Applied Materials), AMC (AMC Entertainment), AMD (Advanced Micro Devices), AMZN (Amazon), ANET (Arista Networks), APP (AppLovin), ARM, ASPI (ASP Isotopes), ASTS (AST SpaceMobile), AVGO (Broadcom), AXP (American Express), BA (Boeing), BABA (Alibaba), BAC (Bank of America), BG (Bunge), BIDU (Baidu), BMY (Bristol Myers Squibb), BR (Broadridge Financial Solutions), BRK.B (Berkshire Hathaway), BWXT (BWX Technologies), CDNS (Cadence Design Systems), CEG (Constellation Energy), CLX (Clorox), COIN (Coinbase), CRCL (Circle), CRM (Salesforce), CRWV (CoreWeave), CSGP (CoStar Group), CTSH (Cognizant), CTVA (Corteva), CVX (Chevron), DAL (Delta Air Lines), DKNG (DraftKings), DXYZ (Destiny Tech100), EFX (Equifax), ELV (Elevance Health), FICO (Fair Isaac), FISV (Fiserv), FLUT (Flutter Entertainment), GDDY (GoDaddy), GDX (VanEck Gold Miners ETF), GEN (Gen Digital), GLD (SPDR Gold Shares), GLW (Corning), GME (GameStop), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HII (Huntington Ingalls Industries), HOOD (Robinhood Markets), HSBC (HSBC Holdings), IBM, INFY (Infosys), INTC (Intel), INTU (Intuit), IONQ, IREN, IT (Gartner), JCI (Johnson Controls), JD (JD.com), JPM (JPMorgan Chase), KLAC (KLA), KO (Coca-Cola), LEN (Lennar), LRCX (Lam Research), MARA (MARA Holdings), MCD (McDonald's), META, MPC (Marathon Petroleum), MRK (Merck), MRVL (Marvell Technology), MSFT (Microsoft), MSTR (Strategy), MU (Micron Technology), NBIS (Nebius Group), NEM (Newmont), NFLX (Netflix), NKE (Nike), NOK (Nokia), NOW (ServiceNow), NRG (NRG Energy), NTES (NetEase), NVDA (NVIDIA), NVO (Novo Nordisk), ON (onsemi), ONDS (Ondas), ORCL (Oracle), OTIS (Otis Worldwide), OXY (Occidental Petroleum), PDD (PDD Holdings), PFE (Pfizer), PLTR (Palantir), PLUG (Plug Power), PSKY (Paramount Skydance), PSX (Phillips 66), PYPL (PayPal), Q (Qnity Electronics), QCOM (Qualcomm Incorporated), RKLB (Rocket Lab), SECZ (Securitize Corp), SMCI (Super Micro Computer), SNDK (Sandisk Corporation), SNOW (Snowflake), SNPS (Synopsys), SPCX (SpaceX), STZ (Constellation Brands), SYNA (Synaptics), TCOM (Trip.com), TEM (Tempus AI), TFC (Truist Financial), TLN (Talen Energy), TRU (TransUnion), TSLA (Tesla), TSM (TSMC), TTD (The Trade Desk), TXN (Texas Instruments), TYL (Tyler Technologies), UAL (United Airlines), UBER, UNH (UnitedHealth), VLO (Valero Energy), VST (Vistra), VYLR (Vylor), WBD (Warner Bros. Discovery), WDAY (Workday), WYNN (Wynn Resorts), XOM (ExxonMobil), ZBH (Zimmer Biomet), ZM (Zoom), ZTS (Zoetis). Not investment advice.
+AI-generated research on US-listed stocks, mirrored from [lwj.ai](https://lwj.ai/) (178 research reports, 71 Q&A answers, 1 guide, 2 prompts; written in Chinese). Each file states its source and links back to the original page. Tickers covered: AAL (American Airlines), AAPL (Apple), ACN (Accenture), ADBE (Adobe), AMAT (Applied Materials), AMC (AMC Entertainment), AMD (Advanced Micro Devices), AMZN (Amazon), ANET (Arista Networks), APP (AppLovin), ARM, ASPI (ASP Isotopes), ASTS (AST SpaceMobile), AVGO (Broadcom), AXP (American Express), BA (Boeing), BABA (Alibaba), BAC (Bank of America), BG (Bunge), BIDU (Baidu), BMY (Bristol Myers Squibb), BR (Broadridge Financial Solutions), BRK.B (Berkshire Hathaway), BWXT (BWX Technologies), CDNS (Cadence Design Systems), CEG (Constellation Energy), CLX (Clorox), COIN (Coinbase), CRCL (Circle), CRM (Salesforce), CRWV (CoreWeave), CSGP (CoStar Group), CTSH (Cognizant), CTVA (Corteva), CVX (Chevron), DAL (Delta Air Lines), DKNG (DraftKings), DXYZ (Destiny Tech100), EFX (Equifax), ELV (Elevance Health), FICO (Fair Isaac), FISV (Fiserv), FLUT (Flutter Entertainment), GDDY (GoDaddy), GDX (VanEck Gold Miners ETF), GEN (Gen Digital), GLD (SPDR Gold Shares), GLW (Corning), GME (GameStop), GOOGL (Alphabet (Class A)), GRML (Greenland Mines), HII (Huntington Ingalls Industries), HOOD (Robinhood Markets), HSBC (HSBC Holdings), IBM, INFY (Infosys), INTC (Intel), INTU (Intuit), IONQ, IREN, IT (Gartner), JCI (Johnson Controls), JD (JD.com), JPM (JPMorgan Chase), KLAC (KLA), KO (Coca-Cola), LEN (Lennar), LRCX (Lam Research), MARA (MARA Holdings), MCD (McDonald's), META, MPC (Marathon Petroleum), MRK (Merck), MRVL (Marvell Technology), MSFT (Microsoft), MSTR (Strategy), MU (Micron Technology), NBIS (Nebius Group), NEM (Newmont), NFLX (Netflix), NKE (Nike), NOK (Nokia), NOW (ServiceNow), NRG (NRG Energy), NTES (NetEase), NVDA (NVIDIA), NVO (Novo Nordisk), ON (onsemi), ONDS (Ondas), ORCL (Oracle), OTIS (Otis Worldwide), OXY (Occidental Petroleum), PDD (PDD Holdings), PFE (Pfizer), PLTR (Palantir), PLUG (Plug Power), PSKY (Paramount Skydance), PSX (Phillips 66), PYPL (PayPal), Q (Qnity Electronics), QCOM (Qualcomm Incorporated), RKLB (Rocket Lab), SECZ (Securitize Corp), SMCI (Super Micro Computer), SNDK (Sandisk Corporation), SNOW (Snowflake), SNPS (Synopsys), SPCX (SpaceX), STZ (Constellation Brands), SYNA (Synaptics), TCOM (Trip.com), TEM (Tempus AI), TFC (Truist Financial), TLN (Talen Energy), TRU (TransUnion), TSLA (Tesla), TSM (TSMC), TTD (The Trade Desk), TXN (Texas Instruments), TYL (Tyler Technologies), UAL (United Airlines), UBER, UNH (UnitedHealth), VLO (Valero Energy), VST (Vistra), VYLR (Vylor), WBD (Warner Bros. Discovery), WDAY (Workday), WYNN (Wynn Resorts), XOM (ExxonMobil), ZBH (Zimmer Biomet), ZM (Zoom), ZTS (Zoetis). Not investment advice.

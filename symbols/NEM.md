@@ -2,7 +2,7 @@
 
 NEM（纽蒙特 · Newmont）的全部问答，新的在前。网站版：[lwj.ai/s/nem](https://lwj.ai/s/nem) · [RSS 订阅](https://lwj.ai/s/nem/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NEM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nem)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NEM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nem) · [雪球](https://xueqiu.com/S/NEM) · [富途牛牛](https://www.futunn.com/stock/NEM-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 WYNN（永利度假村 · Wynn Resorts）的全部问答，新的在前。网站版：[lwj.ai/s/wynn](https://lwj.ai/s/wynn) · [RSS 订阅](https://lwj.ai/s/wynn/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYNN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/WYNN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/wynn)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYNN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/WYNN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/wynn) · [雪球](https://xueqiu.com/S/WYNN) · [富途牛牛](https://www.futunn.com/stock/WYNN-US)
 
 ## 问答
 

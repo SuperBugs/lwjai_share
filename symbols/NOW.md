@@ -2,7 +2,7 @@
 
 NOW（ServiceNow）的全部问答，新的在前。网站版：[lwj.ai/s/now](https://lwj.ai/s/now) · [RSS 订阅](https://lwj.ai/s/now/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOW&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NOW/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/now)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOW&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NOW/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/now) · [雪球](https://xueqiu.com/S/NOW) · [富途牛牛](https://www.futunn.com/stock/NOW-US)
 
 ## 问答
 

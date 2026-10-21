@@ -2,7 +2,7 @@
 
 META 的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/meta](https://lwj.ai/s/meta) · [RSS 订阅](https://lwj.ai/s/meta/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=META&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/META/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/meta)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=META&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/META/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/meta) · [雪球](https://xueqiu.com/S/META) · [富途牛牛](https://www.futunn.com/stock/META-US)
 
 ## 研究报告
 

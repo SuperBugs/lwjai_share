@@ -2,7 +2,7 @@
 
 OXY（西方石油 · Occidental Petroleum）的全部问答，新的在前。网站版：[lwj.ai/s/oxy](https://lwj.ai/s/oxy) · [RSS 订阅](https://lwj.ai/s/oxy/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OXY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/OXY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/oxy)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OXY&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/OXY/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/oxy) · [雪球](https://xueqiu.com/S/OXY) · [富途牛牛](https://www.futunn.com/stock/OXY-US)
 
 ## 问答
 

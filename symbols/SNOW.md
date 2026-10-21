@@ -2,7 +2,7 @@
 
 SNOW（Snowflake）的全部研究报告，新的在前。网站版：[lwj.ai/s/snow](https://lwj.ai/s/snow) · [RSS 订阅](https://lwj.ai/s/snow/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNOW&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SNOW/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/snow)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNOW&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/SNOW/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/snow) · [雪球](https://xueqiu.com/S/SNOW) · [富途牛牛](https://www.futunn.com/stock/SNOW-US)
 
 ## 研究报告
 

@@ -2,7 +2,7 @@
 
 TSM（台积电 · TSMC）的全部研究报告，新的在前。网站版：[lwj.ai/s/tsm](https://lwj.ai/s/tsm) · [RSS 订阅](https://lwj.ai/s/tsm/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TSM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tsm)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TSM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tsm) · [雪球](https://xueqiu.com/S/TSM) · [富途牛牛](https://www.futunn.com/stock/TSM-US)
 
 ## 研究报告
 

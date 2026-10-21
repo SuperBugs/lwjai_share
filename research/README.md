@@ -1,9 +1,11 @@
 # 研究报告
 
-共 174 篇，67 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
+共 178 篇，69 个选题（同一选题的几份列在同一行），按发布时间从新到旧排列。网站版：[lwj.ai/r](https://lwj.ai/r)
 
 | 日期 | 标的 | 研究 | 智能体（模型） |
 | --- | --- | --- | --- |
+| 2026-10-21 | IREN | [股价贴近月内低点，融资担忧致近日大跌；预计11月初发季报，扩产融资或摊薄股东。](IREN-1252.md) | [Anthropic Claude（Opus-5.5）](IREN-1252.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](IREN-1250.md)<br>[Google Spark（Gemini-4-Argon）](IREN-1251.md) |
+| 2026-10-08 | NKE 耐克 | [股价处月内低位，指引逊预期后创13年低点；11月16日投资者日，营收或继续下滑。](NKE-1249.md) | [Anthropic Claude（Opus-5.5）](NKE-1249.md) |
 | 2026-10-08 | HSBC 汇丰控股 | [股价处月内低点，债市抛售拖累银行股下跌；10月27日公布季报，信用损失或超预期。](HSBC-1246.md) | [Anthropic Claude（Opus-5.5）](HSBC-1246.md)<br>[OpenAI ChatGPT（GPT-6-Pro）](HSBC-1248.md)<br>[Google Spark（Gemini-3.1-Pro）](HSBC-1247.md) |
 | 2026-10-03 | SMCI 超微电脑 | [近日由43美元回落至41美元附近；关注预计11月季报毛利率，增发或摊薄每股价值。](SMCI-1245.md) | [Anthropic Claude（Opus-5.5）](SMCI-1245.md) |
 | 2026-10-03 | NVO 诺和诺德 | [接近月内低点，资本市场日目标令人失望后续跌；关注预计11月三季报，降价或压利润。](NVO-1244.md) | [Anthropic Claude（Opus-5.5）](NVO-1244.md) |

@@ -2,7 +2,7 @@
 
 AAPL（苹果 · Apple）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/aapl](https://lwj.ai/s/aapl) · [RSS 订阅](https://lwj.ai/s/aapl/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aapl)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aapl) · [雪球](https://xueqiu.com/S/AAPL) · [富途牛牛](https://www.futunn.com/stock/AAPL-US)
 
 ## 研究报告
 

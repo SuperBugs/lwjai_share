@@ -2,7 +2,7 @@
 
 HII（Huntington Ingalls Industries）的全部问答，新的在前。网站版：[lwj.ai/s/hii](https://lwj.ai/s/hii) · [RSS 订阅](https://lwj.ai/s/hii/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HII&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/HII/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/hii)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HII&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/HII/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/hii) · [雪球](https://xueqiu.com/S/HII) · [富途牛牛](https://www.futunn.com/stock/HII-US)
 
 ## 问答
 

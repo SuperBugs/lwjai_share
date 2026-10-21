@@ -2,7 +2,7 @@
 
 CTSH（高知特 · Cognizant）的全部问答，新的在前。网站版：[lwj.ai/s/ctsh](https://lwj.ai/s/ctsh) · [RSS 订阅](https://lwj.ai/s/ctsh/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTSH&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CTSH/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ctsh)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTSH&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CTSH/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ctsh) · [雪球](https://xueqiu.com/S/CTSH) · [富途牛牛](https://www.futunn.com/stock/CTSH-US)
 
 ## 问答
 

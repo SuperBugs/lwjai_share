@@ -2,7 +2,7 @@
 
 OTIS（奥的斯 · Otis Worldwide）的全部问答，新的在前。网站版：[lwj.ai/s/otis](https://lwj.ai/s/otis) · [RSS 订阅](https://lwj.ai/s/otis/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OTIS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/OTIS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/otis)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OTIS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/OTIS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/otis) · [雪球](https://xueqiu.com/S/OTIS) · [富途牛牛](https://www.futunn.com/stock/OTIS-US)
 
 ## 问答
 

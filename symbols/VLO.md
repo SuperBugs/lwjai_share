@@ -2,7 +2,7 @@
 
 VLO（瓦莱罗能源 · Valero Energy）的全部问答，新的在前。网站版：[lwj.ai/s/vlo](https://lwj.ai/s/vlo) · [RSS 订阅](https://lwj.ai/s/vlo/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VLO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/VLO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/vlo)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VLO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/VLO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/vlo) · [雪球](https://xueqiu.com/S/VLO) · [富途牛牛](https://www.futunn.com/stock/VLO-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 PDD（拼多多 · PDD Holdings）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/pdd](https://lwj.ai/s/pdd) · [RSS 订阅](https://lwj.ai/s/pdd/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PDD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PDD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pdd)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PDD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PDD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pdd) · [雪球](https://xueqiu.com/S/PDD) · [富途牛牛](https://www.futunn.com/stock/PDD-US)
 
 ## 研究报告
 

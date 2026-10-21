@@ -2,7 +2,7 @@
 
 PSX（菲利普斯66 · Phillips 66）的全部问答，新的在前。网站版：[lwj.ai/s/psx](https://lwj.ai/s/psx) · [RSS 订阅](https://lwj.ai/s/psx/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PSX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/psx)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PSX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/psx) · [雪球](https://xueqiu.com/S/PSX) · [富途牛牛](https://www.futunn.com/stock/PSX-US)
 
 ## 问答
 

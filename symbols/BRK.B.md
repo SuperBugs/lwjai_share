@@ -2,7 +2,7 @@
 
 BRK.B（伯克希尔·哈撒韦 · Berkshire Hathaway）的全部问答，新的在前。网站版：[lwj.ai/s/brk-b](https://lwj.ai/s/brk-b) · [RSS 订阅](https://lwj.ai/s/brk-b/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BRK-B/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/brk.b)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BRK-B/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/brk.b) · [雪球](https://xueqiu.com/S/BRK.B) · [富途牛牛](https://www.futunn.com/stock/BRK.B-US)
 
 ## 问答
 

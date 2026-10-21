@@ -2,7 +2,7 @@
 
 WBD（华纳兄弟探索 · Warner Bros. Discovery）的全部问答，新的在前。网站版：[lwj.ai/s/wbd](https://lwj.ai/s/wbd) · [RSS 订阅](https://lwj.ai/s/wbd/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/WBD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/wbd)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/WBD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/wbd) · [雪球](https://xueqiu.com/S/WBD) · [富途牛牛](https://www.futunn.com/stock/WBD-US)
 
 ## 问答
 

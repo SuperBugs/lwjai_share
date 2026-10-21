@@ -2,7 +2,7 @@
 
 VYLR（Vylor）的全部问答，新的在前。网站版：[lwj.ai/s/vylr](https://lwj.ai/s/vylr) · [RSS 订阅](https://lwj.ai/s/vylr/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VYLR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/VYLR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/vylr)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VYLR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/VYLR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/vylr) · [雪球](https://xueqiu.com/S/VYLR) · [富途牛牛](https://www.futunn.com/stock/VYLR-US)
 
 ## 问答
 

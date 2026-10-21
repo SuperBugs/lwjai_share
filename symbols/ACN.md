@@ -2,7 +2,7 @@
 
 ACN（埃森哲 · Accenture）的全部问答，新的在前。网站版：[lwj.ai/s/acn](https://lwj.ai/s/acn) · [RSS 订阅](https://lwj.ai/s/acn/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ACN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/acn)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ACN/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/acn) · [雪球](https://xueqiu.com/S/ACN) · [富途牛牛](https://www.futunn.com/stock/ACN-US)
 
 ## 问答
 

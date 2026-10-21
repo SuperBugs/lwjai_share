@@ -2,7 +2,7 @@
 
 PYPL（PayPal）的全部研究报告，新的在前。网站版：[lwj.ai/s/pypl](https://lwj.ai/s/pypl) · [RSS 订阅](https://lwj.ai/s/pypl/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PYPL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PYPL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pypl)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PYPL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PYPL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pypl) · [雪球](https://xueqiu.com/S/PYPL) · [富途牛牛](https://www.futunn.com/stock/PYPL-US)
 
 ## 研究报告
 

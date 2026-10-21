@@ -2,7 +2,7 @@
 
 AAL（美国航空 · American Airlines）的全部问答，新的在前。网站版：[lwj.ai/s/aal](https://lwj.ai/s/aal) · [RSS 订阅](https://lwj.ai/s/aal/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AAL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aal)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAL&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AAL/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aal) · [雪球](https://xueqiu.com/S/AAL) · [富途牛牛](https://www.futunn.com/stock/AAL-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 IT（高德纳 · Gartner）的全部问答，新的在前。网站版：[lwj.ai/s/it](https://lwj.ai/s/it) · [RSS 订阅](https://lwj.ai/s/it/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/IT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/it)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IT&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/IT/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/it) · [雪球](https://xueqiu.com/S/IT) · [富途牛牛](https://www.futunn.com/stock/IT-US)
 
 ## 问答
 

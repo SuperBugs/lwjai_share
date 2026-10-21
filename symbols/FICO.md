@@ -2,7 +2,7 @@
 
 FICO（Fair Isaac）的全部问答，新的在前。网站版：[lwj.ai/s/fico](https://lwj.ai/s/fico) · [RSS 订阅](https://lwj.ai/s/fico/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FICO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/FICO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/fico)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FICO&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/FICO/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/fico) · [雪球](https://xueqiu.com/S/FICO) · [富途牛牛](https://www.futunn.com/stock/FICO-US)
 
 ## 问答
 

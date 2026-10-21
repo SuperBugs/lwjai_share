@@ -2,7 +2,7 @@
 
 CDNS（楷登电子 · Cadence Design Systems）的全部问答，新的在前。网站版：[lwj.ai/s/cdns](https://lwj.ai/s/cdns) · [RSS 订阅](https://lwj.ai/s/cdns/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CDNS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CDNS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/cdns)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CDNS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CDNS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/cdns) · [雪球](https://xueqiu.com/S/CDNS) · [富途牛牛](https://www.futunn.com/stock/CDNS-US)
 
 ## 问答
 

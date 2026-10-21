@@ -2,7 +2,7 @@
 
 PLTR（Palantir）的全部研究报告，新的在前。网站版：[lwj.ai/s/pltr](https://lwj.ai/s/pltr) · [RSS 订阅](https://lwj.ai/s/pltr/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLTR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PLTR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pltr)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLTR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PLTR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pltr) · [雪球](https://xueqiu.com/S/PLTR) · [富途牛牛](https://www.futunn.com/stock/PLTR-US)
 
 ## 研究报告
 

@@ -2,7 +2,7 @@
 
 BR（Broadridge Financial Solutions）的全部问答，新的在前。网站版：[lwj.ai/s/br](https://lwj.ai/s/br) · [RSS 订阅](https://lwj.ai/s/br/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/br)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BR&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/BR/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/br) · [雪球](https://xueqiu.com/S/BR) · [富途牛牛](https://www.futunn.com/stock/BR-US)
 
 ## 问答
 

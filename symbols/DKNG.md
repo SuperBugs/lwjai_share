@@ -2,7 +2,7 @@
 
 DKNG（DraftKings）的全部研究报告，新的在前。网站版：[lwj.ai/s/dkng](https://lwj.ai/s/dkng) · [RSS 订阅](https://lwj.ai/s/dkng/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DKNG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/DKNG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/dkng)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DKNG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/DKNG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/dkng) · [雪球](https://xueqiu.com/S/DKNG) · [富途牛牛](https://www.futunn.com/stock/DKNG-US)
 
 ## 研究报告
 

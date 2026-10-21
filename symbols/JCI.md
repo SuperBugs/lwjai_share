@@ -2,7 +2,7 @@
 
 JCI（江森自控 · Johnson Controls）的全部问答，新的在前。网站版：[lwj.ai/s/jci](https://lwj.ai/s/jci) · [RSS 订阅](https://lwj.ai/s/jci/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JCI&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/JCI/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/jci)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JCI&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/JCI/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/jci) · [雪球](https://xueqiu.com/S/JCI) · [富途牛牛](https://www.futunn.com/stock/JCI-US)
 
 ## 问答
 

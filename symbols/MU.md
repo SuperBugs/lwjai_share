@@ -2,7 +2,7 @@
 
 MU（美光科技 · Micron Technology）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/mu](https://lwj.ai/s/mu) · [RSS 订阅](https://lwj.ai/s/mu/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MU/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mu)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MU/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mu) · [雪球](https://xueqiu.com/S/MU) · [富途牛牛](https://www.futunn.com/stock/MU-US)
 
 ## 研究报告
 

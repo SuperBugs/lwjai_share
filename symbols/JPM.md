@@ -2,7 +2,7 @@
 
 JPM（摩根大通 · JPMorgan Chase）的全部问答，新的在前。网站版：[lwj.ai/s/jpm](https://lwj.ai/s/jpm) · [RSS 订阅](https://lwj.ai/s/jpm/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/JPM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/jpm)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/JPM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/jpm) · [雪球](https://xueqiu.com/S/JPM) · [富途牛牛](https://www.futunn.com/stock/JPM-US)
 
 ## 问答
 

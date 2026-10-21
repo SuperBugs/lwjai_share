@@ -2,7 +2,7 @@
 
 CLX（高乐氏 · Clorox）的全部问答，新的在前。网站版：[lwj.ai/s/clx](https://lwj.ai/s/clx) · [RSS 订阅](https://lwj.ai/s/clx/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CLX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/clx)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/CLX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/clx) · [雪球](https://xueqiu.com/S/CLX) · [富途牛牛](https://www.futunn.com/stock/CLX-US)
 
 ## 问答
 

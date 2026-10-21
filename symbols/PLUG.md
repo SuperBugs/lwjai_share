@@ -2,7 +2,7 @@
 
 PLUG（普拉格能源 · Plug Power）的全部研究报告，新的在前。网站版：[lwj.ai/s/plug](https://lwj.ai/s/plug) · [RSS 订阅](https://lwj.ai/s/plug/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLUG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PLUG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/plug)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLUG&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PLUG/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/plug) · [雪球](https://xueqiu.com/S/PLUG) · [富途牛牛](https://www.futunn.com/stock/PLUG-US)
 
 ## 研究报告
 

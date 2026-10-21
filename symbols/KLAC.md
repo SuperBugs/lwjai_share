@@ -2,7 +2,7 @@
 
 KLAC（科磊 · KLA）的全部问答，新的在前。网站版：[lwj.ai/s/klac](https://lwj.ai/s/klac) · [RSS 订阅](https://lwj.ai/s/klac/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/KLAC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/klac)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/KLAC/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/klac) · [雪球](https://xueqiu.com/S/KLAC) · [富途牛牛](https://www.futunn.com/stock/KLAC-US)
 
 ## 问答
 

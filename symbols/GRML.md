@@ -2,7 +2,7 @@
 
 GRML（格陵兰矿业 · Greenland Mines）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/grml](https://lwj.ai/s/grml) · [RSS 订阅](https://lwj.ai/s/grml/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRML&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GRML/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/grml)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRML&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/GRML/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/grml) · [雪球](https://xueqiu.com/S/GRML) · [富途牛牛](https://www.futunn.com/stock/GRML-US)
 
 ## 研究报告
 

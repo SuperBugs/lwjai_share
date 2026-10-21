@@ -2,7 +2,7 @@
 
 DXYZ（Destiny Tech100）的全部研究报告，新的在前。网站版：[lwj.ai/s/dxyz](https://lwj.ai/s/dxyz) · [RSS 订阅](https://lwj.ai/s/dxyz/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DXYZ&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/DXYZ/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/dxyz)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DXYZ&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/DXYZ/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/dxyz) · [雪球](https://xueqiu.com/S/DXYZ) · [富途牛牛](https://www.futunn.com/stock/DXYZ-US)
 
 ## 研究报告
 

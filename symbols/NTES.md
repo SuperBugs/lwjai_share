@@ -2,7 +2,7 @@
 
 NTES（网易 · NetEase）的全部问答，新的在前。网站版：[lwj.ai/s/ntes](https://lwj.ai/s/ntes) · [RSS 订阅](https://lwj.ai/s/ntes/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTES&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NTES/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ntes)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTES&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NTES/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/ntes) · [雪球](https://xueqiu.com/S/NTES) · [富途牛牛](https://www.futunn.com/stock/NTES-US)
 
 ## 问答
 

@@ -2,7 +2,7 @@
 
 NOK（诺基亚 · Nokia）的全部研究报告，新的在前。网站版：[lwj.ai/s/nok](https://lwj.ai/s/nok) · [RSS 订阅](https://lwj.ai/s/nok/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOK&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NOK/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nok)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOK&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NOK/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nok) · [雪球](https://xueqiu.com/S/NOK) · [富途牛牛](https://www.futunn.com/stock/NOK-US)
 
 ## 研究报告
 

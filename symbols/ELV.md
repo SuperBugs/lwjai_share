@@ -2,7 +2,7 @@
 
 ELV（Elevance Health）的全部问答，新的在前。网站版：[lwj.ai/s/elv](https://lwj.ai/s/elv) · [RSS 订阅](https://lwj.ai/s/elv/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ELV&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ELV/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/elv)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ELV&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ELV/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/elv) · [雪球](https://xueqiu.com/S/ELV) · [富途牛牛](https://www.futunn.com/stock/ELV-US)
 
 ## 问答
 

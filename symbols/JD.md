@@ -2,7 +2,7 @@
 
 JD（京东 · JD.com）的全部问答，新的在前。网站版：[lwj.ai/s/jd](https://lwj.ai/s/jd) · [RSS 订阅](https://lwj.ai/s/jd/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/JD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/jd)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/JD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/jd) · [雪球](https://xueqiu.com/S/JD) · [富途牛牛](https://www.futunn.com/stock/JD-US)
 
 ## 问答
 

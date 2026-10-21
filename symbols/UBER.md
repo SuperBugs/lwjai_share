@@ -2,7 +2,7 @@
 
 UBER（优步）的全部研究报告与问答，新的在前。网站版：[lwj.ai/s/uber](https://lwj.ai/s/uber) · [RSS 订阅](https://lwj.ai/s/uber/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UBER&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/UBER/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/uber)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UBER&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/UBER/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/uber) · [雪球](https://xueqiu.com/S/UBER) · [富途牛牛](https://www.futunn.com/stock/UBER-US)
 
 ## 研究报告
 

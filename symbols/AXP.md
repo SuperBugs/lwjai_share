@@ -2,7 +2,7 @@
 
 AXP（美国运通 · American Express）的全部问答，新的在前。网站版：[lwj.ai/s/axp](https://lwj.ai/s/axp) · [RSS 订阅](https://lwj.ai/s/axp/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AXP/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/axp)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/AXP/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/axp) · [雪球](https://xueqiu.com/S/AXP) · [富途牛牛](https://www.futunn.com/stock/AXP-US)
 
 ## 问答
 

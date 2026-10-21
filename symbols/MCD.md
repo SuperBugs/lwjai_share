@@ -2,7 +2,7 @@
 
 MCD（麦当劳 · McDonald's）的全部研究报告，新的在前。网站版：[lwj.ai/s/mcd](https://lwj.ai/s/mcd) · [RSS 订阅](https://lwj.ai/s/mcd/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MCD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mcd)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCD&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MCD/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mcd) · [雪球](https://xueqiu.com/S/MCD) · [富途牛牛](https://www.futunn.com/stock/MCD-US)
 
 ## 研究报告
 

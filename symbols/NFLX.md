@@ -2,7 +2,7 @@
 
 NFLX（奈飞 · Netflix）的全部研究报告，新的在前。网站版：[lwj.ai/s/nflx](https://lwj.ai/s/nflx) · [RSS 订阅](https://lwj.ai/s/nflx/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NFLX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nflx)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/NFLX/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nflx) · [雪球](https://xueqiu.com/S/NFLX) · [富途牛牛](https://www.futunn.com/stock/NFLX-US)
 
 ## 研究报告
 

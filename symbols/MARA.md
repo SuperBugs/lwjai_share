@@ -2,7 +2,7 @@
 
 MARA（MARA Holdings）的全部研究报告，新的在前。网站版：[lwj.ai/s/mara](https://lwj.ai/s/mara) · [RSS 订阅](https://lwj.ai/s/mara/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MARA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MARA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mara)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MARA&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MARA/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mara) · [雪球](https://xueqiu.com/S/MARA) · [富途牛牛](https://www.futunn.com/stock/MARA-US)
 
 ## 研究报告
 

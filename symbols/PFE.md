@@ -2,7 +2,7 @@
 
 PFE（辉瑞 · Pfizer）的全部问答，新的在前。网站版：[lwj.ai/s/pfe](https://lwj.ai/s/pfe) · [RSS 订阅](https://lwj.ai/s/pfe/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PFE/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pfe)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/PFE/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/pfe) · [雪球](https://xueqiu.com/S/PFE) · [富途牛牛](https://www.futunn.com/stock/PFE-US)
 
 ## 问答
 

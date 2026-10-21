@@ -2,7 +2,7 @@
 
 ZTS（硕腾 · Zoetis）的全部问答，新的在前。网站版：[lwj.ai/s/zts](https://lwj.ai/s/zts) · [RSS 订阅](https://lwj.ai/s/zts/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ZTS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/zts)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/ZTS/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/zts) · [雪球](https://xueqiu.com/S/ZTS) · [富途牛牛](https://www.futunn.com/stock/ZTS-US)
 
 ## 问答
 

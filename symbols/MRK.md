@@ -2,7 +2,7 @@
 
 MRK（默沙东 · Merck）的全部问答，新的在前。网站版：[lwj.ai/s/mrk](https://lwj.ai/s/mrk) · [RSS 订阅](https://lwj.ai/s/mrk/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MRK/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mrk)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/MRK/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/mrk) · [雪球](https://xueqiu.com/S/MRK) · [富途牛牛](https://www.futunn.com/stock/MRK-US)
 
 ## 问答
 

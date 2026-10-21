@@ -2,7 +2,7 @@
 
 STZ（星座品牌 · Constellation Brands）的全部问答，新的在前。网站版：[lwj.ai/s/stz](https://lwj.ai/s/stz) · [RSS 订阅](https://lwj.ai/s/stz/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STZ&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/STZ/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/stz)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STZ&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/STZ/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/stz) · [雪球](https://xueqiu.com/S/STZ) · [富途牛牛](https://www.futunn.com/stock/STZ-US)
 
 ## 问答
 

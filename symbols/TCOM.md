@@ -2,7 +2,7 @@
 
 TCOM（携程 · Trip.com）的全部问答，新的在前。网站版：[lwj.ai/s/tcom](https://lwj.ai/s/tcom) · [RSS 订阅](https://lwj.ai/s/tcom/rss.xml)
 
-核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TCOM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TCOM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tcom)
+核对原始资料：[SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TCOM&owner=include&count=40) · [Yahoo Finance](https://finance.yahoo.com/quote/TCOM/) · [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tcom) · [雪球](https://xueqiu.com/S/TCOM) · [富途牛牛](https://www.futunn.com/stock/TCOM-US)
 
 ## 问答
 
